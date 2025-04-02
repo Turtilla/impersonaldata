@@ -1,0 +1,91 @@
+===========================
+  Texty App - INSTALL.txt
+===========================
+
+This document explains how to install and run the Texty web application (Flask version) on your local machine or server.
+
+---------------------------
+  1. REQUIREMENTS
+---------------------------
+- Python 3.9 or later
+- pip (Python package installer)
+- git (to clone the repository)
+- virtualenv or venv (for isolated environments)
+- gunicorn (for production)
+
+---------------------------
+  2. INSTALLATION STEPS
+---------------------------
+
+1. Clone the repository:
+   git clone https://github.com/YOUR_USERNAME/texty-app.git
+   cd texty-app
+
+2. Create and activate a virtual environment:
+   python3 -m venv venv
+   source venv/bin/activate     # Windows: venv\Scripts\activate
+
+3. Install required Python packages:
+   pip install -r requirements.txt
+
+   (If no requirements.txt file is present, install manually:)
+   pip install flask pillow matplotlib
+
+---------------------------
+  3. RUN THE APP
+---------------------------
+
+Development mode (with auto-reload):
+
+   flask run
+
+   - Runs on: http://127.0.0.1:5000/
+
+Make sure your Flask entry point file is named `app.py` and contains the variable `app = Flask(__name__)`
+
+If needed:
+   export FLASK_APP=app.py
+   export FLASK_ENV=development
+
+---------------------------
+  4. DEPLOYMENT (Production)
+---------------------------
+
+Use Gunicorn to serve the app:
+
+   gunicorn --bind 127.0.0.1:8000 app:app
+
+   - Runs on: http://127.0.0.1:8000/
+
+Make sure `gunicorn` is installed in your virtualenv:
+   pip install gunicorn
+
+---------------------------
+  5. FILE STRUCTURE (Example)
+---------------------------
+
+texty-app/
+├── app.py              # Main Flask app
+├── static/             # Static assets (CSS, JS)
+├── templates/          # HTML templates
+├── venv/               # Virtual environment
+├── requirements.txt    # Python dependencies
+└── INSTALL.txt         # This file
+
+---------------------------
+  6. TROUBLESHOOTING
+---------------------------
+
+- If `flask run` does not work, make sure you have set:
+     export FLASK_APP=app.py
+
+- If using Windows, replace `export` with `set`:
+     set FLASK_APP=app.py
+
+- To stop the Gunicorn server:
+     Ctrl + C or use `kill` if running in the background
+
+===========================
+  End of INSTALL.txt
+===========================
+

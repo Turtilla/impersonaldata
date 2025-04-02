@@ -1,0 +1,11 @@
+PP
+source venv/bin/activate
+
+Run flask:
+dev:
+1)flask run
+or deploy:
+2)gunicorn --bind 127.0.0.1:8000 app:app
+
+
+---------------------------------
