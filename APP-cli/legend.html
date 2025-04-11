@@ -1,0 +1,57 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Texty Category Legend</title>
+  <style>
+    body {
+      font-family: DejaVu Sans, sans-serif;
+      padding: 20px;
+    }
+    .legend {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      max-width: 300px;
+    }
+    .legend-item {
+      display: flex;
+      align-items: center;
+    }
+    .color-box {
+      width: 20px;
+      height: 20px;
+      margin-right: 10px;
+      border: 1px solid #444;
+      border-radius: 3px;
+    }
+  </style>
+</head>
+<body>
+
+  <h2>Texty Category Legend</h2>
+  <div class="legend">
+    <div class="legend-item">
+      <div class="color-box" style="background-color: #0090d4;"></div>
+      <span>Date</span>
+    </div>
+    <div class="legend-item">
+      <div class="color-box" style="background-color: #7ab51d;"></div>
+      <span>Geographic</span>
+    </div>
+    <div class="legend-item">
+      <div class="color-box" style="background-color: #eb690b;"></div>
+      <span>Institution</span>
+    </div>
+    <div class="legend-item">
+      <div class="color-box" style="background-color: #ffff00;"></div>
+      <span>Personal_name</span>
+    </div>
+    <div class="legend-item">
+      <div class="color-box" style="background-color: #ba4a8a;"></div>
+      <span>Other</span>
+    </div>
+  </div>
+</body>
+</html>
