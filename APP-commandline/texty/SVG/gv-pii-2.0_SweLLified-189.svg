@@ -1,0 +1,900 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1131">
+<rect width="100%" height="100%" fill="white" />
+<rect x="8" y="5" width="41" height="26" fill="#7ab51d" />
+<text x="10" y="26" fill="#7ab51d" stroke="#7ab51d" stroke-width="1" font-size="17" font-family="DejaVu Sans">Kina</text>
+<text x="52" y="26" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">:</text>
+<rect x="61" y="5" width="74" height="26" fill="#ba4a8a" />
+<text x="63" y="26" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">Politiska</text>
+<rect x="136" y="5" width="63" height="30" fill="#ba4a8a" />
+<text x="138" y="30" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">fången</text>
+<rect x="200" y="5" width="18" height="26" fill="#ffff00" />
+<text x="202" y="26" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Li</text>
+<rect x="219" y="5" width="94" height="30" fill="#ffff00" />
+<text x="221" y="30" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Wangyang</text>
+<text x="316" y="26" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">hittad</text>
+<text x="371" y="26" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">död</text>
+<rect x="406" y="5" width="18" height="26" fill="#ffff00" />
+<text x="408" y="26" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Li</text>
+<rect x="425" y="5" width="94" height="30" fill="#ffff00" />
+<text x="427" y="30" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Wangyang</text>
+<text x="522" y="28" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">[en],</text>
+<text x="567" y="26" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">en</text>
+<rect x="591" y="5" width="72" height="26" fill="#ba4a8a" />
+<text x="593" y="26" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">kinesisk</text>
+<rect x="664" y="5" width="65" height="30" fill="#ba4a8a" />
+<text x="666" y="30" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">politisk</text>
+<rect x="730" y="5" width="52" height="30" fill="#ba4a8a" />
+<text x="732" y="30" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">fånge</text>
+<text x="10" y="47" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">som</text>
+<text x="51" y="51" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">tillbringat</text>
+<text x="138" y="47" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">största</text>
+<text x="202" y="47" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">delen</text>
+<text x="254" y="47" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">av</text>
+<text x="279" y="47" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">sitt</text>
+<text x="311" y="47" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">liv</text>
+<text x="336" y="47" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">i</text>
+<text x="346" y="49" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">häkte,</text>
+<text x="405" y="47" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">hittades</text>
+<text x="480" y="47" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">död</text>
+<text x="517" y="49" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">[en]</text>
+<text x="556" y="51" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">på</text>
+<text x="582" y="51" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">morgonen</text>
+<rect x="672" y="26" width="87" height="30" fill="#0090d4" />
+<text x="674" y="51" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">onsdagen</text>
+<rect x="8" y="47" width="36" height="26" fill="#0090d4" />
+<text x="10" y="68" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">den</text>
+<rect x="45" y="47" width="15" height="26" fill="#0090d4" />
+<text x="47" y="68" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">6</text>
+<rect x="61" y="47" width="35" height="30" fill="#0090d4" />
+<text x="63" y="72" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">juni</text>
+<rect x="97" y="47" width="47" height="26" fill="#0090d4" />
+<text x="99" y="68" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">2012</text>
+<text x="147" y="70" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">,</text>
+<text x="157" y="68" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">efter</text>
+<text x="202" y="68" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">en</text>
+<text x="228" y="72" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">intervju</text>
+<text x="298" y="68" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">med</text>
+<text x="341" y="68" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">utländsk</text>
+<text x="419" y="68" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">media</text>
+<text x="477" y="68" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">om</text>
+<rect x="507" y="47" width="96" height="26" fill="#ba4a8a" />
+<text x="509" y="68" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">massakern</text>
+<rect x="604" y="47" width="36" height="26" fill="#ba4a8a" />
+<text x="606" y="68" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">den</text>
+<rect x="641" y="47" width="15" height="26" fill="#ba4a8a" />
+<text x="643" y="68" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">4</text>
+<rect x="657" y="47" width="35" height="30" fill="#ba4a8a" />
+<text x="659" y="72" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">juni</text>
+<rect x="8" y="68" width="105" height="28" fill="#ba4a8a" />
+<text x="10" y="91" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">(Himmelska</text>
+<rect x="114" y="68" width="63" height="26" fill="#ba4a8a" />
+<text x="116" y="89" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">fridens</text>
+<rect x="178" y="68" width="45" height="30" fill="#ba4a8a" />
+<text x="180" y="93" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">torg)</text>
+<rect x="224" y="68" width="21" height="26" fill="#ba4a8a" />
+<text x="226" y="89" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">år</text>
+<rect x="246" y="68" width="47" height="26" fill="#ba4a8a" />
+<text x="248" y="89" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">1989</text>
+<text x="296" y="89" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">och</text>
+<text x="332" y="89" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">livet</text>
+<text x="374" y="89" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">för</text>
+<rect x="400" y="68" width="75" height="30" fill="#ba4a8a" />
+<text x="402" y="93" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">politiska</text>
+<rect x="476" y="68" width="59" height="30" fill="#ba4a8a" />
+<text x="478" y="93" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">fångar</text>
+<text x="538" y="89" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">i</text>
+<rect x="546" y="68" width="41" height="26" fill="#7ab51d" />
+<text x="548" y="89" fill="#7ab51d" stroke="#7ab51d" stroke-width="1" font-size="17" font-family="DejaVu Sans">Kina</text>
+<text x="590" y="89" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">.</text>
+<rect x="598" y="68" width="18" height="26" fill="#ffff00" />
+<text x="600" y="89" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Li</text>
+<text x="619" y="93" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">släpptes</text>
+<text x="696" y="89" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">den</text>
+<rect x="731" y="68" width="15" height="26" fill="#0090d4" />
+<text x="733" y="89" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">5</text>
+<rect x="747" y="68" width="36" height="30" fill="#0090d4" />
+<text x="749" y="93" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">maj</text>
+<rect x="8" y="89" width="47" height="26" fill="#0090d4" />
+<text x="10" y="110" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">2011</text>
+<text x="58" y="112" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">,</text>
+<text x="68" y="110" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">efter</text>
+<rect x="111" y="89" width="26" height="26" fill="#0090d4" />
+<text x="113" y="110" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">22</text>
+<rect x="138" y="89" width="21" height="26" fill="#0090d4" />
+<text x="140" y="110" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">år</text>
+<text x="162" y="110" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">i</text>
+<text x="172" y="114" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">fängelse,</text>
+<rect x="253" y="89" width="35" height="26" fill="#ba4a8a" />
+<text x="255" y="110" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">döv</text>
+<text x="291" y="110" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">och</text>
+<rect x="325" y="89" width="46" height="26" fill="#ba4a8a" />
+<text x="327" y="110" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">blind</text>
+<text x="374" y="110" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">som</text>
+<text x="415" y="110" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">ett</text>
+<text x="444" y="110" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">resultat</text>
+<text x="515" y="110" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">av</text>
+<text x="540" y="110" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">den</text>
+<text x="577" y="114" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">tortyr</text>
+<text x="630" y="110" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">han</text>
+<text x="667" y="110" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">utsatts</text>
+<text x="731" y="110" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">för.</text>
+<text x="10" y="131" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">Han</text>
+<text x="49" y="131" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">var</text>
+<text x="81" y="131" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">arbetaraktivist</text>
+<text x="211" y="131" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">och</text>
+<text x="247" y="135" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">deltog</text>
+<text x="306" y="131" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">i</text>
+<text x="316" y="131" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">den</text>
+<text x="353" y="131" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">demokratiska</text>
+<text x="474" y="131" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">studentrörelsen</text>
+<rect x="611" y="110" width="21" height="26" fill="#0090d4" />
+<text x="613" y="131" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">år</text>
+<rect x="633" y="110" width="47" height="26" fill="#0090d4" />
+<text x="635" y="131" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">1989</text>
+<text x="683" y="131" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">som</text>
+<text x="724" y="131" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">en</text>
+<text x="10" y="152" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">ledande</text>
+<text x="83" y="156" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">figur</text>
+<text x="127" y="152" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">inom</text>
+<rect x="172" y="131" width="88" height="30" fill="#eb690b" />
+<text x="174" y="156" fill="#eb690b" stroke="#eb690b" stroke-width="1" font-size="17" font-family="DejaVu Sans">Shaoyang</text>
+<rect x="261" y="131" width="44" height="30" fill="#eb690b" />
+<text x="263" y="156" fill="#eb690b" stroke="#eb690b" stroke-width="1" font-size="17" font-family="DejaVu Sans">citys</text>
+<rect x="306" y="131" width="95" height="26" fill="#eb690b" />
+<text x="308" y="152" fill="#eb690b" stroke="#eb690b" stroke-width="1" font-size="17" font-family="DejaVu Sans">oberoende</text>
+<rect x="402" y="131" width="70" height="30" fill="#eb690b" />
+<text x="404" y="156" fill="#eb690b" stroke="#eb690b" stroke-width="1" font-size="17" font-family="DejaVu Sans">fackliga</text>
+<rect x="473" y="131" width="62" height="26" fill="#eb690b" />
+<text x="475" y="152" fill="#eb690b" stroke="#eb690b" stroke-width="1" font-size="17" font-family="DejaVu Sans">rörelse</text>
+<text x="538" y="152" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">.</text>
+<text x="548" y="152" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">Han</text>
+<text x="587" y="152" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">arresterades</text>
+<text x="700" y="152" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">efter</text>
+<text x="10" y="177" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">protesterna</text>
+<text x="114" y="173" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">vid</text>
+<rect x="143" y="152" width="99" height="26" fill="#7ab51d" />
+<text x="145" y="173" fill="#7ab51d" stroke="#7ab51d" stroke-width="1" font-size="17" font-family="DejaVu Sans">Himmelska</text>
+<rect x="243" y="152" width="63" height="26" fill="#7ab51d" />
+<text x="245" y="173" fill="#7ab51d" stroke="#7ab51d" stroke-width="1" font-size="17" font-family="DejaVu Sans">fridens</text>
+<rect x="307" y="152" width="39" height="30" fill="#7ab51d" />
+<text x="309" y="177" fill="#7ab51d" stroke="#7ab51d" stroke-width="1" font-size="17" font-family="DejaVu Sans">torg</text>
+<text x="349" y="173" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">och</text>
+<text x="385" y="177" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">tillbringade</text>
+<rect x="485" y="152" width="26" height="26" fill="#0090d4" />
+<text x="487" y="173" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">11</text>
+<rect x="512" y="152" width="21" height="26" fill="#0090d4" />
+<text x="514" y="173" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">år</text>
+<text x="536" y="173" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">i</text>
+<text x="546" y="177" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">fängelse</text>
+<text x="623" y="177" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">anklagad</text>
+<text x="706" y="173" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">för</text>
+<text x="10" y="198" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">statsfientlig</text>
+<text x="115" y="194" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">verksamhet.</text>
+<text x="227" y="194" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">Han</text>
+<text x="266" y="198" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">påbörjade</text>
+<text x="357" y="194" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">en</text>
+<text x="383" y="198" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">hungerstrejk</text>
+<text x="496" y="194" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">i</text>
+<text x="506" y="198" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">fängelset</text>
+<text x="590" y="194" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">och</text>
+<text x="626" y="196" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">torterades;</text>
+<text x="10" y="219" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">fängelseväktarna</text>
+<text x="163" y="219" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">drog</text>
+<text x="207" y="215" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">ut</text>
+<text x="230" y="215" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">hans</text>
+<text x="276" y="215" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">tänder</text>
+<text x="337" y="215" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">och</text>
+<text x="373" y="219" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">tvingade</text>
+<text x="453" y="215" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">honom</text>
+<text x="517" y="215" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">att</text>
+<text x="546" y="215" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">äta.</text>
+<text x="584" y="215" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">Han</text>
+<text x="623" y="219" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">släpptes</text>
+<text x="700" y="215" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">för</text>
+<text x="728" y="215" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">en</text>
+<text x="754" y="215" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">kort</text>
+<text x="10" y="236" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">tid</text>
+<text x="37" y="236" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">år</text>
+<rect x="57" y="215" width="47" height="26" fill="#0090d4" />
+<text x="59" y="236" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">2000</text>
+<text x="107" y="236" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">men</text>
+<text x="150" y="240" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">fängslades</text>
+<text x="247" y="240" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">igen</text>
+<text x="289" y="236" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">i</text>
+<rect x="297" y="215" width="36" height="30" fill="#0090d4" />
+<text x="299" y="240" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">maj</text>
+<rect x="334" y="215" width="47" height="26" fill="#0090d4" />
+<text x="336" y="236" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">2001</text>
+<text x="384" y="236" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">för</text>
+<text x="412" y="236" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">en</text>
+<text x="438" y="240" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">period</text>
+<text x="497" y="240" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">på</text>
+<rect x="521" y="215" width="26" height="26" fill="#0090d4" />
+<text x="523" y="236" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">tio</text>
+<rect x="548" y="215" width="21" height="26" fill="#0090d4" />
+<text x="550" y="236" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">år</text>
+<text x="572" y="236" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">i</text>
+<text x="582" y="236" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">ett</text>
+<text x="611" y="240" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">tillslag</text>
+<text x="672" y="236" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">mot</text>
+<rect x="709" y="215" width="53" height="26" fill="#eb690b" />
+<text x="711" y="236" fill="#eb690b" stroke="#eb690b" stroke-width="1" font-size="17" font-family="DejaVu Sans">China</text>
+<rect x="8" y="236" width="101" height="30" fill="#eb690b" />
+<text x="10" y="261" fill="#eb690b" stroke="#eb690b" stroke-width="1" font-size="17" font-family="DejaVu Sans">Democracy</text>
+<rect x="110" y="236" width="48" height="30" fill="#eb690b" />
+<text x="112" y="261" fill="#eb690b" stroke="#eb690b" stroke-width="1" font-size="17" font-family="DejaVu Sans">Party</text>
+<rect x="159" y="236" width="38" height="28" fill="#eb690b" />
+<text x="161" y="259" fill="#eb690b" stroke="#eb690b" stroke-width="1" font-size="17" font-family="DejaVu Sans">[en]</text>
+<rect x="198" y="236" width="65" height="28" fill="#eb690b" />
+<text x="200" y="259" fill="#eb690b" stroke="#eb690b" stroke-width="1" font-size="17" font-family="DejaVu Sans">[“Kinas</text>
+<rect x="264" y="236" width="120" height="26" fill="#eb690b" />
+<text x="266" y="257" fill="#eb690b" stroke="#eb690b" stroke-width="1" font-size="17" font-family="DejaVu Sans">demokratiska</text>
+<rect x="385" y="236" width="59" height="30" fill="#eb690b" />
+<text x="387" y="261" fill="#eb690b" stroke="#eb690b" stroke-width="1" font-size="17" font-family="DejaVu Sans">parti”]</text>
+<text x="447" y="259" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">,</text>
+<text x="457" y="257" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">den</text>
+<text x="494" y="257" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">här</text>
+<text x="527" y="261" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">gången</text>
+<text x="596" y="261" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">anklagad</text>
+<text x="679" y="257" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">för</text>
+<text x="707" y="257" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">att</text>
+<text x="736" y="257" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">ha</text>
+<text x="10" y="282" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">uppviglat</text>
+<text x="95" y="278" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">till</text>
+<text x="121" y="282" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">undergrävande</text>
+<text x="256" y="278" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">av</text>
+<text x="281" y="278" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">statens</text>
+<text x="349" y="278" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">makt.</text>
+<rect x="401" y="257" width="18" height="26" fill="#ffff00" />
+<text x="403" y="278" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Li</text>
+<rect x="420" y="257" width="94" height="30" fill="#ffff00" />
+<text x="422" y="282" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Wangyang</text>
+<text x="517" y="278" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">och</text>
+<text x="553" y="278" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">hans</text>
+<rect x="597" y="257" width="56" height="30" fill="#ffff00" />
+<text x="599" y="282" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">syster</text>
+<text x="656" y="282" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">på</text>
+<rect x="680" y="257" width="86" height="30" fill="#eb690b" />
+<text x="682" y="282" fill="#eb690b" stroke="#eb690b" stroke-width="1" font-size="17" font-family="DejaVu Sans">sjukhuset</text>
+<text x="769" y="278" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">.</text>
+<text x="10" y="299" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">Bild</text>
+<text x="47" y="303" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">tagen</text>
+<text x="101" y="299" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">av</text>
+<text x="126" y="299" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">skärm</text>
+<text x="183" y="299" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">under</text>
+<text x="238" y="303" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">nyheterna</text>
+<text x="330" y="303" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">på</text>
+<rect x="354" y="278" width="49" height="30" fill="#eb690b" />
+<text x="356" y="303" fill="#eb690b" stroke="#eb690b" stroke-width="1" font-size="17" font-family="DejaVu Sans">Hong</text>
+<rect x="404" y="278" width="46" height="30" fill="#eb690b" />
+<text x="406" y="303" fill="#eb690b" stroke="#eb690b" stroke-width="1" font-size="17" font-family="DejaVu Sans">Kong</text>
+<rect x="451" y="278" width="41" height="26" fill="#eb690b" />
+<text x="453" y="299" fill="#eb690b" stroke="#eb690b" stroke-width="1" font-size="17" font-family="DejaVu Sans">Now</text>
+<rect x="493" y="278" width="26" height="26" fill="#eb690b" />
+<text x="495" y="299" fill="#eb690b" stroke="#eb690b" stroke-width="1" font-size="17" font-family="DejaVu Sans">TV</text>
+<text x="522" y="299" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">.</text>
+<rect x="530" y="278" width="18" height="26" fill="#ffff00" />
+<text x="532" y="299" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Li</text>
+<text x="551" y="303" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">intervjuades</text>
+<text x="662" y="299" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">av</text>
+<rect x="685" y="278" width="49" height="30" fill="#eb690b" />
+<text x="687" y="303" fill="#eb690b" stroke="#eb690b" stroke-width="1" font-size="17" font-family="DejaVu Sans">Hong</text>
+<rect x="735" y="278" width="55" height="30" fill="#eb690b" />
+<text x="737" y="303" fill="#eb690b" stroke="#eb690b" stroke-width="1" font-size="17" font-family="DejaVu Sans">Kongs</text>
+<rect x="8" y="299" width="77" height="26" fill="#eb690b" />
+<text x="10" y="320" fill="#eb690b" stroke="#eb690b" stroke-width="1" font-size="17" font-family="DejaVu Sans">kabel-TV</text>
+<text x="88" y="320" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">för</text>
+<text x="116" y="320" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">en</text>
+<text x="142" y="324" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">nyhetshistoria</text>
+<text x="268" y="320" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">om</text>
+<rect x="298" y="299" width="26" height="26" fill="#0090d4" />
+<text x="300" y="320" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">23</text>
+<text x="327" y="324" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">-årsdagen</text>
+<text x="418" y="320" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">av</text>
+<rect x="441" y="299" width="96" height="26" fill="#ba4a8a" />
+<text x="443" y="320" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">massakern</text>
+<rect x="538" y="299" width="25" height="30" fill="#ba4a8a" />
+<text x="540" y="324" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">på</text>
+<rect x="564" y="299" width="99" height="26" fill="#ba4a8a" />
+<text x="566" y="320" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">Himmelska</text>
+<rect x="664" y="299" width="63" height="26" fill="#ba4a8a" />
+<text x="666" y="320" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">fridens</text>
+<rect x="728" y="299" width="39" height="30" fill="#ba4a8a" />
+<text x="730" y="324" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">torg</text>
+<rect x="8" y="320" width="36" height="26" fill="#ba4a8a" />
+<text x="10" y="341" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">den</text>
+<rect x="45" y="320" width="15" height="26" fill="#ba4a8a" />
+<text x="47" y="341" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">4</text>
+<rect x="61" y="320" width="35" height="30" fill="#ba4a8a" />
+<text x="63" y="345" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">juni</text>
+<text x="99" y="341" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">.</text>
+<text x="109" y="341" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">Under</text>
+<text x="165" y="345" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">intervjun</text>
+<text x="246" y="341" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">sa</text>
+<text x="270" y="341" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">han</text>
+<text x="307" y="341" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">att</text>
+<text x="336" y="341" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">han</text>
+<text x="373" y="345" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">aldrig</text>
+<text x="426" y="341" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">skulle</text>
+<text x="480" y="345" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">ångra</text>
+<text x="534" y="341" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">vad</text>
+<text x="570" y="341" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">han</text>
+<text x="607" y="345" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">gjort</text>
+<text x="652" y="341" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">i</text>
+<text x="662" y="341" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">sin</text>
+<text x="691" y="341" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">strävan</text>
+<text x="760" y="341" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">för</text>
+<text x="10" y="362" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">demokratisk</text>
+<text x="121" y="362" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">reform</text>
+<text x="183" y="362" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">i</text>
+<rect x="191" y="341" width="41" height="26" fill="#7ab51d" />
+<text x="193" y="362" fill="#7ab51d" stroke="#7ab51d" stroke-width="1" font-size="17" font-family="DejaVu Sans">Kina</text>
+<text x="235" y="362" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">och</text>
+<text x="271" y="362" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">att</text>
+<text x="300" y="362" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">han</text>
+<text x="337" y="366" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">uppmuntrats</text>
+<text x="452" y="362" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">av</text>
+<rect x="475" y="341" width="49" height="30" fill="#7ab51d" />
+<text x="477" y="366" fill="#7ab51d" stroke="#7ab51d" stroke-width="1" font-size="17" font-family="DejaVu Sans">Hong</text>
+<rect x="525" y="341" width="46" height="30" fill="#7ab51d" />
+<text x="527" y="366" fill="#7ab51d" stroke="#7ab51d" stroke-width="1" font-size="17" font-family="DejaVu Sans">Kong</text>
+<text x="574" y="366" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">-befolkningens</text>
+<text x="705" y="362" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">krav</text>
+<text x="747" y="366" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">på</text>
+<text x="10" y="383" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">att</text>
+<text x="39" y="383" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">den</text>
+<rect x="74" y="362" width="82" height="26" fill="#7ab51d" />
+<text x="76" y="383" fill="#7ab51d" stroke="#7ab51d" stroke-width="1" font-size="17" font-family="DejaVu Sans">kinesiska</text>
+<text x="159" y="387" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">regimen</text>
+<text x="234" y="383" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">ska</text>
+<text x="268" y="387" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">ge</text>
+<text x="294" y="387" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">upprättelse</text>
+<text x="397" y="383" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">till</text>
+<rect x="421" y="362" width="15" height="26" fill="#ba4a8a" />
+<text x="423" y="383" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">4</text>
+<rect x="437" y="362" width="133" height="30" fill="#ba4a8a" />
+<text x="439" y="387" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">juni-massakern</text>
+<text x="573" y="385" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">,</text>
+<text x="583" y="383" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">som</text>
+<text x="624" y="383" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">inte</text>
+<text x="662" y="383" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">ens</text>
+<text x="697" y="383" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">nämns</text>
+<text x="760" y="383" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">i</text>
+<rect x="8" y="383" width="82" height="26" fill="#7ab51d" />
+<text x="10" y="404" fill="#7ab51d" stroke="#7ab51d" stroke-width="1" font-size="17" font-family="DejaVu Sans">kinesiska</text>
+<text x="93" y="404" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">läroböcker.</text>
+<text x="191" y="408" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">Enligt</text>
+<text x="245" y="404" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">en</text>
+<text x="271" y="408" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">rapport</text>
+<text x="339" y="404" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">från</text>
+<text x="378" y="404" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">den</text>
+<rect x="413" y="383" width="82" height="26" fill="#ba4a8a" />
+<text x="415" y="404" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">kinesiska</text>
+<text x="498" y="408" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">människorättsorganisationen</text>
+<rect x="8" y="404" width="125" height="30" fill="#eb690b" />
+<text x="10" y="429" fill="#eb690b" stroke="#eb690b" stroke-width="1" font-size="17" font-family="DejaVu Sans">WeiquanWang</text>
+<text x="136" y="427" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">[</text>
+<rect x="146" y="404" width="19" height="26" fill="#ba4a8a" />
+<text x="148" y="425" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">ki</text>
+<text x="168" y="427" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">]</text>
+<text x="180" y="425" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">hittade</text>
+<rect x="244" y="404" width="27" height="26" fill="#ffff00" />
+<text x="246" y="425" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Lis</text>
+<rect x="272" y="404" width="56" height="30" fill="#ffff00" />
+<text x="274" y="429" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">syster</text>
+<text x="331" y="425" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">hans</text>
+<text x="377" y="429" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">kropp</text>
+<rect x="428" y="404" width="19" height="26" fill="#0090d4" />
+<text x="430" y="425" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">kl</text>
+<rect x="448" y="404" width="15" height="26" fill="#0090d4" />
+<text x="450" y="425" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">7</text>
+<rect x="464" y="404" width="36" height="26" fill="#0090d4" />
+<text x="466" y="425" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">den</text>
+<rect x="501" y="404" width="15" height="26" fill="#0090d4" />
+<text x="503" y="425" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">6</text>
+<rect x="517" y="404" width="35" height="30" fill="#0090d4" />
+<text x="519" y="429" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">juni</text>
+<text x="555" y="427" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">,</text>
+<text x="565" y="429" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">hängande</text>
+<text x="655" y="425" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">från</text>
+<text x="10" y="446" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">fönsterkarmen</text>
+<text x="140" y="450" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">på</text>
+<text x="166" y="446" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">en</text>
+<text x="192" y="450" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">sjukhusavdelning</text>
+<text x="345" y="446" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">där</text>
+<text x="378" y="446" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">han</text>
+<text x="415" y="446" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">var</text>
+<text x="447" y="450" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">inlagd,</text>
+<text x="510" y="446" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">som</text>
+<text x="551" y="446" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">om</text>
+<text x="583" y="446" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">han</text>
+<text x="620" y="450" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">begått</text>
+<text x="681" y="450" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">självmord.</text>
+<text x="10" y="467" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">Polisen</text>
+<text x="75" y="467" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">förde</text>
+<text x="124" y="467" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">sedan</text>
+<text x="180" y="467" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">snabbt</text>
+<text x="244" y="467" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">bort</text>
+<rect x="282" y="446" width="27" height="26" fill="#ffff00" />
+<text x="284" y="467" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Lis</text>
+<text x="312" y="471" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">kropp,</text>
+<text x="371" y="467" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">utan</text>
+<text x="415" y="471" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">hänsyn</text>
+<text x="482" y="467" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">till</text>
+<text x="508" y="471" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">släktingarnas</text>
+<text x="627" y="471" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">begäran</text>
+<text x="703" y="467" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">att</text>
+<text x="732" y="467" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">få</text>
+<text x="753" y="467" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">ta</text>
+<text x="10" y="488" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">bilder</text>
+<text x="63" y="488" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">av</text>
+<text x="88" y="488" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">den</text>
+<text x="125" y="488" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">döda</text>
+<text x="172" y="492" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">kroppen.</text>
+<rect x="250" y="467" width="27" height="26" fill="#ffff00" />
+<text x="252" y="488" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Lis</text>
+<rect x="278" y="467" width="35" height="26" fill="#ffff00" />
+<text x="280" y="488" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">vän</text>
+<text x="316" y="492" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">vägrade</text>
+<text x="391" y="488" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">tro</text>
+<text x="420" y="488" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">att</text>
+<rect x="447" y="467" width="18" height="26" fill="#ffff00" />
+<text x="449" y="488" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Li</text>
+<text x="468" y="492" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">begått</text>
+<text x="529" y="492" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">självmord:</text>
+<text x="623" y="492" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">Enligt</text>
+<rect x="675" y="467" width="37" height="26" fill="#ffff00" />
+<text x="677" y="488" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Zhu</text>
+<rect x="8" y="488" width="83" height="30" fill="#ffff00" />
+<text x="10" y="513" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Chengzhi</text>
+<rect x="92" y="488" width="34" height="28" fill="#ffff00" />
+<text x="94" y="511" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">[Lis</text>
+<rect x="127" y="488" width="42" height="28" fill="#ffff00" />
+<text x="129" y="511" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">vän]</text>
+<text x="172" y="509" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">hade</text>
+<text x="219" y="509" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">han</text>
+<text x="256" y="509" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">ett</text>
+<text x="285" y="513" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">långt</text>
+<text x="334" y="509" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">samtal</text>
+<text x="397" y="509" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">med</text>
+<rect x="438" y="488" width="18" height="26" fill="#ffff00" />
+<text x="440" y="509" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Li</text>
+<rect x="457" y="488" width="92" height="30" fill="#ffff00" />
+<text x="459" y="513" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">WangYang</text>
+<text x="552" y="509" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">den</text>
+<rect x="587" y="488" width="15" height="26" fill="#0090d4" />
+<text x="589" y="509" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">4</text>
+<rect x="603" y="488" width="35" height="30" fill="#0090d4" />
+<text x="605" y="513" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">juni</text>
+<text x="641" y="509" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">och</text>
+<rect x="675" y="488" width="18" height="26" fill="#ffff00" />
+<text x="677" y="509" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Li</text>
+<text x="696" y="509" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">var</text>
+<text x="10" y="534" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">optimistisk.</text>
+<text x="113" y="530" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">Även</text>
+<text x="160" y="530" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">om</text>
+<text x="192" y="530" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">hans</text>
+<text x="238" y="530" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">hälsa</text>
+<text x="288" y="530" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">var</text>
+<rect x="318" y="509" width="45" height="30" fill="#ba4a8a" />
+<text x="320" y="534" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">dålig</text>
+<text x="366" y="532" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">,</text>
+<text x="376" y="530" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">hade</text>
+<text x="423" y="534" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">många</text>
+<text x="487" y="534" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">uttryckt</text>
+<text x="559" y="530" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">sin</text>
+<text x="588" y="530" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">oro</text>
+<text x="620" y="530" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">för</text>
+<rect x="646" y="509" width="18" height="26" fill="#ffff00" />
+<text x="648" y="530" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Li</text>
+<text x="667" y="530" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">och</text>
+<text x="703" y="530" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">han</text>
+<text x="740" y="530" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">höll</text>
+<text x="10" y="555" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">långsamt</text>
+<text x="95" y="555" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">på</text>
+<text x="121" y="551" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">att</text>
+<text x="150" y="551" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">bli</text>
+<rect x="173" y="530" width="56" height="26" fill="#ba4a8a" />
+<text x="175" y="551" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">bättre</text>
+<text x="232" y="551" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">.</text>
+<text x="242" y="555" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">Igår</text>
+<rect x="278" y="530" width="43" height="28" fill="#0090d4" />
+<text x="280" y="553" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">[den</text>
+<rect x="322" y="530" width="15" height="26" fill="#0090d4" />
+<text x="324" y="551" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">5</text>
+<rect x="338" y="530" width="42" height="30" fill="#0090d4" />
+<text x="340" y="555" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">juni]</text>
+<text x="383" y="551" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">bad</text>
+<rect x="418" y="530" width="18" height="26" fill="#ffff00" />
+<text x="420" y="551" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Li</text>
+<text x="439" y="551" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">sin</text>
+<rect x="466" y="530" width="56" height="30" fill="#ffff00" />
+<text x="468" y="555" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">syster</text>
+<text x="525" y="551" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">att</text>
+<text x="554" y="555" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">köpa</text>
+<text x="600" y="551" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">honom</text>
+<text x="664" y="551" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">en</text>
+<text x="690" y="551" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">radio</text>
+<text x="738" y="551" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">så</text>
+<text x="762" y="551" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">att</text>
+<text x="10" y="572" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">han</text>
+<text x="47" y="572" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">kunde</text>
+<text x="104" y="576" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">börja</text>
+<text x="152" y="572" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">öva</text>
+<text x="188" y="572" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">att</text>
+<text x="217" y="576" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">lyssna</text>
+<text x="276" y="574" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">[</text>
+<rect x="286" y="551" width="42" height="26" fill="#ba4a8a" />
+<text x="288" y="572" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">med</text>
+<rect x="329" y="551" width="99" height="30" fill="#ba4a8a" />
+<text x="331" y="576" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">hörapparat</text>
+<text x="431" y="574" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">].</text>
+<text x="448" y="572" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">Två</text>
+<text x="484" y="572" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">bilder</text>
+<text x="537" y="574" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">[VARNING:</text>
+<text x="632" y="572" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">innehållet</text>
+<text x="722" y="572" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">kan</text>
+<text x="10" y="597" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">uppröra],</text>
+<text x="94" y="593" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">som</text>
+<text x="135" y="597" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">sägs</text>
+<text x="179" y="593" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">ha</text>
+<text x="205" y="597" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">tagits</text>
+<text x="258" y="593" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">av</text>
+<text x="283" y="597" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">ögonvittnen</text>
+<text x="391" y="593" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">till</text>
+<text x="417" y="597" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">platsen</text>
+<text x="485" y="593" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">där</text>
+<rect x="516" y="572" width="18" height="26" fill="#ffff00" />
+<text x="518" y="593" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Li</text>
+<text x="537" y="597" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">hängde,</text>
+<text x="611" y="593" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">har</text>
+<text x="644" y="597" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">spritts</text>
+<text x="703" y="593" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">via</text>
+<text x="10" y="614" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">Facebook</text>
+<text x="95" y="614" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">och</text>
+<text x="131" y="614" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">Twitter.</text>
+<text x="197" y="614" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">De</text>
+<text x="226" y="614" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">visar</text>
+<text x="272" y="614" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">att</text>
+<text x="301" y="614" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">fönsterkarmen</text>
+<text x="431" y="614" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">där</text>
+<rect x="462" y="593" width="18" height="26" fill="#ffff00" />
+<text x="464" y="614" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Li</text>
+<text x="483" y="618" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">hängde</text>
+<text x="552" y="614" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">var</text>
+<text x="584" y="614" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">för</text>
+<text x="612" y="618" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">låg</text>
+<text x="643" y="614" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">och</text>
+<text x="679" y="614" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">att</text>
+<text x="708" y="614" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">hans</text>
+<text x="10" y="635" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">fötter</text>
+<text x="62" y="637" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">[ki]</text>
+<text x="95" y="635" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">fortfarande</text>
+<text x="196" y="635" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">nådde</text>
+<text x="254" y="639" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">golvet.</text>
+<rect x="316" y="614" width="84" height="26" fill="#ba4a8a" />
+<text x="318" y="635" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">Kinesiska</text>
+<text x="403" y="639" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">nätmedborgare</text>
+<text x="540" y="639" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">upprördes</text>
+<text x="631" y="635" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">över</text>
+<text x="674" y="639" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">nyheterna;</text>
+<text x="10" y="656" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">nedan</text>
+<text x="68" y="656" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">listas</text>
+<text x="117" y="656" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">ett</text>
+<text x="146" y="656" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">urval</text>
+<text x="194" y="656" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">tweets</text>
+<text x="256" y="656" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">med</text>
+<text x="299" y="656" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">reaktioner</text>
+<text x="391" y="660" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">på</text>
+<text x="417" y="656" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">händelsen</text>
+<text x="510" y="656" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">som</text>
+<text x="551" y="660" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">publicerats</text>
+<text x="651" y="660" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">på</text>
+<text x="677" y="656" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">Twitter</text>
+<text x="739" y="658" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">[</text>
+<rect x="749" y="635" width="19" height="26" fill="#ba4a8a" />
+<text x="751" y="656" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">ki</text>
+<text x="771" y="658" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">]:</text>
+<rect x="8" y="656" width="107" height="30" fill="#ffff00" />
+<text x="10" y="681" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">@BaiqiaoCh</text>
+<text x="118" y="677" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">:</text>
+<text x="129" y="677" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">Det</text>
+<text x="165" y="677" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">här</text>
+<text x="198" y="677" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">är</text>
+<text x="220" y="677" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">mer</text>
+<text x="259" y="677" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">än</text>
+<text x="285" y="681" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">skamligt.</text>
+<text x="368" y="677" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">De</text>
+<text x="397" y="681" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">anstränger</text>
+<text x="495" y="681" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">sig</text>
+<text x="524" y="677" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">inte</text>
+<text x="562" y="677" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">ens</text>
+<text x="597" y="677" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">för</text>
+<text x="625" y="677" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">att</text>
+<text x="654" y="677" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">iscensätta</text>
+<rect x="744" y="656" width="18" height="26" fill="#ffff00" />
+<text x="746" y="677" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Li</text>
+<rect x="8" y="677" width="103" height="30" fill="#ffff00" />
+<text x="10" y="702" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Wangyangs</text>
+<text x="114" y="702" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">självmord</text>
+<text x="202" y="702" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">på</text>
+<text x="228" y="698" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">ett</text>
+<text x="257" y="702" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">trovärdigt</text>
+<text x="346" y="698" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">sätt</text>
+<text x="384" y="698" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">och</text>
+<text x="420" y="698" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">bortser</text>
+<text x="486" y="698" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">helt</text>
+<text x="524" y="698" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">ifrån</text>
+<text x="568" y="698" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">människors</text>
+<text x="671" y="698" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">ilska.</text>
+<text x="720" y="702" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">Jag</text>
+<text x="10" y="719" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">skulle</text>
+<text x="64" y="723" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">tillbringa</text>
+<text x="144" y="719" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">resten</text>
+<text x="203" y="719" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">av</text>
+<text x="228" y="719" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">livet</text>
+<text x="270" y="719" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">med</text>
+<text x="313" y="719" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">att</text>
+<text x="342" y="723" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">jaga</text>
+<text x="383" y="719" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">mördaren.</text>
+<rect x="474" y="698" width="112" height="30" fill="#ffff00" />
+<text x="476" y="723" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">@tufuwugan</text>
+<text x="589" y="719" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">:</text>
+<text x="600" y="719" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">Den</text>
+<text x="639" y="723" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">uthållige</text>
+<rect x="716" y="698" width="18" height="26" fill="#ffff00" />
+<text x="718" y="719" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Li</text>
+<rect x="8" y="719" width="94" height="30" fill="#ffff00" />
+<text x="10" y="744" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Wangyang</text>
+<text x="105" y="740" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">hade</text>
+<text x="152" y="740" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">överlevt</text>
+<text x="227" y="740" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">alla</text>
+<text x="262" y="740" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">dessa</text>
+<rect x="314" y="719" width="26" height="26" fill="#0090d4" />
+<text x="316" y="740" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">21</text>
+<rect x="341" y="719" width="21" height="26" fill="#0090d4" />
+<text x="343" y="740" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">år</text>
+<text x="365" y="740" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">men</text>
+<text x="408" y="740" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">mötte</text>
+<text x="464" y="740" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">en</text>
+<text x="490" y="744" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">onaturlig</text>
+<text x="571" y="740" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">död</text>
+<text x="608" y="744" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">på</text>
+<text x="634" y="744" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">sjukhuset</text>
+<text x="721" y="740" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">då</text>
+<text x="747" y="740" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">han</text>
+<text x="10" y="761" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">var</text>
+<text x="42" y="761" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">under</text>
+<text x="97" y="765" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">övervakning</text>
+<text x="207" y="761" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">av</text>
+<text x="232" y="761" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">tio</text>
+<text x="259" y="765" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">säkerhetspoliser.</text>
+<text x="407" y="761" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">Han</text>
+<text x="446" y="761" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">var</text>
+<text x="478" y="761" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">dessutom</text>
+<rect x="564" y="740" width="35" height="26" fill="#ba4a8a" />
+<text x="566" y="761" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">döv</text>
+<text x="602" y="761" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">och</text>
+<rect x="636" y="740" width="46" height="26" fill="#ba4a8a" />
+<text x="638" y="761" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">blind</text>
+<text x="685" y="761" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">och</text>
+<rect x="719" y="740" width="56" height="26" fill="#ba4a8a" />
+<text x="721" y="761" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">kunde</text>
+<rect x="8" y="761" width="37" height="26" fill="#ba4a8a" />
+<text x="10" y="782" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">inte</text>
+<rect x="46" y="761" width="38" height="26" fill="#ba4a8a" />
+<text x="48" y="782" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">röra</text>
+<rect x="85" y="761" width="28" height="30" fill="#ba4a8a" />
+<text x="87" y="786" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">sig</text>
+<rect x="114" y="761" width="43" height="26" fill="#ba4a8a" />
+<text x="116" y="782" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">utan</text>
+<rect x="158" y="761" width="84" height="30" fill="#ba4a8a" />
+<text x="160" y="786" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">svårighet</text>
+<text x="245" y="782" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">.</text>
+<text x="255" y="782" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">De</text>
+<text x="284" y="782" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">som</text>
+<text x="325" y="786" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">begränsade</text>
+<text x="431" y="782" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">hans</text>
+<text x="477" y="782" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">frihet</text>
+<text x="528" y="782" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">har</text>
+<text x="561" y="782" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">ansvaret</text>
+<text x="641" y="782" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">för</text>
+<text x="669" y="782" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">hans</text>
+<text x="715" y="782" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">död.</text>
+<rect x="8" y="782" width="94" height="30" fill="#ffff00" />
+<text x="10" y="807" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Wangyang</text>
+<text x="105" y="803" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">är</text>
+<text x="127" y="803" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">en</text>
+<text x="153" y="803" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">fri</text>
+<text x="176" y="807" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">medborgare;</text>
+<text x="291" y="803" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">de</text>
+<text x="317" y="803" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">som</text>
+<text x="358" y="807" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">begränsade</text>
+<text x="464" y="803" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">hans</text>
+<text x="510" y="803" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">frihet</text>
+<text x="561" y="803" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">är</text>
+<text x="583" y="803" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">mördare.</text>
+<text x="665" y="803" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">Att</text>
+<text x="695" y="807" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">förbjuda</text>
+<rect x="8" y="803" width="27" height="26" fill="#ffff00" />
+<text x="10" y="824" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Lis</text>
+<text x="38" y="828" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">familj</text>
+<text x="90" y="824" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">och</text>
+<text x="126" y="824" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">vänner</text>
+<text x="191" y="824" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">att</text>
+<text x="220" y="824" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">undersöka</text>
+<text x="314" y="828" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">kroppen</text>
+<text x="389" y="828" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">genom</text>
+<text x="453" y="824" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">att</text>
+<text x="482" y="824" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">föra</text>
+<text x="521" y="824" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">bort</text>
+<text x="561" y="824" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">den</text>
+<text x="598" y="824" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">mot</text>
+<text x="637" y="824" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">deras</text>
+<text x="690" y="828" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">vilja</text>
+<text x="730" y="828" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">pekar</text>
+<text x="10" y="849" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">på</text>
+<text x="36" y="845" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">att</text>
+<text x="65" y="845" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">de</text>
+<text x="91" y="845" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">är</text>
+<text x="113" y="849" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">skyldiga.</text>
+<rect x="191" y="824" width="132" height="30" fill="#ffff00" />
+<text x="193" y="849" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">@crushglass_X</text>
+<text x="326" y="845" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">:</text>
+<text x="337" y="845" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">Hur</text>
+<text x="373" y="849" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">många</text>
+<text x="437" y="845" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">hade</text>
+<text x="484" y="845" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">hört</text>
+<text x="524" y="845" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">talas</text>
+<text x="570" y="845" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">om</text>
+<rect x="600" y="824" width="18" height="26" fill="#ffff00" />
+<text x="602" y="845" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Li</text>
+<rect x="619" y="824" width="94" height="30" fill="#ffff00" />
+<text x="621" y="849" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Wangyang</text>
+<text x="716" y="845" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">medan</text>
+<text x="10" y="866" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">han</text>
+<text x="47" y="866" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">levde?</text>
+<text x="108" y="866" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">Nu</text>
+<text x="137" y="866" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">är</text>
+<text x="159" y="866" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">han</text>
+<text x="196" y="866" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">död</text>
+<text x="233" y="866" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">och</text>
+<text x="269" y="866" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">kallas</text>
+<text x="323" y="866" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">en</text>
+<text x="349" y="866" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">stor</text>
+<text x="387" y="870" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">förkämpe</text>
+<text x="473" y="866" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">för</text>
+<text x="501" y="866" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">demokrati.</text>
+<text x="598" y="866" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">Detta</text>
+<text x="650" y="866" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">visar</text>
+<text x="696" y="866" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">att</text>
+<text x="725" y="866" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">folk</text>
+<text x="10" y="887" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">inte</text>
+<text x="48" y="891" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">lägger</text>
+<text x="107" y="887" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">märke</text>
+<text x="166" y="887" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">till</text>
+<text x="192" y="887" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">de</text>
+<text x="218" y="887" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">som</text>
+<text x="259" y="887" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">inte</text>
+<text x="297" y="887" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">är</text>
+<text x="319" y="887" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">berömda.</text>
+<text x="405" y="887" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">För</text>
+<text x="437" y="887" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">dessa</text>
+<text x="491" y="887" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">människor</text>
+<text x="585" y="887" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">är</text>
+<text x="607" y="891" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">priset</text>
+<text x="661" y="887" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">de</text>
+<text x="687" y="887" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">betalar</text>
+<text x="10" y="912" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">mycket</text>
+<text x="78" y="912" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">högre</text>
+<text x="132" y="908" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">än</text>
+<text x="158" y="908" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">de</text>
+<text x="184" y="908" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">berömda</text>
+<text x="265" y="908" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">och</text>
+<text x="301" y="912" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">inflytelserikas.</text>
+<rect x="427" y="887" width="106" height="30" fill="#ffff00" />
+<text x="429" y="912" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">@xuange12</text>
+<text x="536" y="908" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">:</text>
+<text x="547" y="908" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">Så</text>
+<text x="573" y="908" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">här</text>
+<text x="606" y="912" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">går</text>
+<text x="639" y="908" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">det</text>
+<text x="672" y="908" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">oftast</text>
+<text x="726" y="908" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">till:</text>
+<text x="758" y="908" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">Ditt</text>
+<text x="10" y="933" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">inflytande</text>
+<text x="100" y="929" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">har</text>
+<text x="133" y="933" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">påverkat</text>
+<text x="214" y="929" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">min</text>
+<text x="251" y="933" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">politiska</text>
+<text x="327" y="931" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">karriär,</text>
+<text x="393" y="929" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">då</text>
+<text x="419" y="929" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">blir</text>
+<text x="451" y="929" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">du</text>
+<text x="478" y="929" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">skurken.</text>
+<text x="555" y="929" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">I</text>
+<text x="565" y="929" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">mitt</text>
+<text x="605" y="929" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">territorium</text>
+<text x="702" y="929" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">har</text>
+<text x="735" y="933" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">jag</text>
+<text x="10" y="950" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">absolut</text>
+<text x="78" y="950" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">makt.</text>
+<text x="132" y="950" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">Min</text>
+<text x="167" y="954" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">gissning</text>
+<text x="242" y="950" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">är</text>
+<text x="264" y="950" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">att</text>
+<rect x="291" y="929" width="18" height="26" fill="#ffff00" />
+<text x="293" y="950" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Li</text>
+<rect x="310" y="929" width="94" height="30" fill="#ffff00" />
+<text x="312" y="954" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Wangyang</text>
+<text x="407" y="950" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">dödades</text>
+<text x="485" y="950" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">av</text>
+<text x="510" y="950" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">denna</text>
+<text x="568" y="954" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">typ</text>
+<text x="601" y="950" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">av</text>
+<text x="626" y="954" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">trångsynta</text>
+<text x="10" y="971" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">människor.</text>
+<text x="108" y="971" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">Om</text>
+<text x="143" y="971" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">de</text>
+<text x="169" y="971" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">hade</text>
+<text x="216" y="975" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">något</text>
+<text x="270" y="971" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">sunt</text>
+<text x="312" y="971" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">förnuft</text>
+<text x="374" y="971" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">skulle</text>
+<text x="428" y="971" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">de</text>
+<text x="454" y="971" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">inte</text>
+<text x="492" y="975" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">göra</text>
+<text x="536" y="975" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">något</text>
+<text x="590" y="971" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">sådant.</text>
+<text x="658" y="975" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">Ingen</text>
+<text x="711" y="975" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">tjänar</text>
+<text x="766" y="975" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">på</text>
+<text x="10" y="992" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">det.</text>
+<text x="48" y="992" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">Bara</text>
+<text x="92" y="992" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">då</text>
+<text x="118" y="992" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">känslor</text>
+<text x="185" y="992" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">ersätter</text>
+<text x="258" y="992" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">rationalitet</text>
+<text x="357" y="992" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">och</text>
+<text x="393" y="992" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">utrustas</text>
+<text x="468" y="992" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">med</text>
+<text x="511" y="996" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">obegränsad</text>
+<text x="617" y="992" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">makt</text>
+<text x="666" y="992" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">kan</text>
+<text x="702" y="992" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">detta</text>
+<text x="752" y="992" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">ske.</text>
+<rect x="8" y="992" width="129" height="30" fill="#ffff00" />
+<text x="10" y="1017" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">@wenyunchao</text>
+<text x="140" y="1013" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">:</text>
+<text x="151" y="1013" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">Om</text>
+<text x="186" y="1017" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">myndigheterna</text>
+<text x="321" y="1013" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">inte</text>
+<text x="359" y="1013" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">kan</text>
+<text x="395" y="1017" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">skingra</text>
+<text x="462" y="1013" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">tvivlen</text>
+<text x="524" y="1013" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">om</text>
+<text x="556" y="1013" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">att</text>
+<rect x="583" y="992" width="18" height="26" fill="#ffff00" />
+<text x="585" y="1013" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Li</text>
+<rect x="602" y="992" width="94" height="30" fill="#ffff00" />
+<text x="604" y="1017" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Wangyang</text>
+<text x="699" y="1017" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">begick</text>
+<text x="10" y="1038" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">“passivt</text>
+<text x="85" y="1038" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">självmord”,</text>
+<text x="187" y="1034" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">kan</text>
+<text x="223" y="1034" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">det</text>
+<text x="256" y="1034" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">då</text>
+<text x="282" y="1034" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">finnas</text>
+<text x="339" y="1034" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">skäl</text>
+<text x="378" y="1034" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">att</text>
+<text x="407" y="1034" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">tro</text>
+<text x="436" y="1034" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">att</text>
+<text x="465" y="1038" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">myndigheterna</text>
+<text x="600" y="1034" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">har</text>
+<text x="633" y="1038" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">börjat</text>
+<text x="688" y="1034" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">mörda</text>
+<text x="10" y="1059" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">politiska</text>
+<text x="86" y="1055" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">dissidenter</text>
+<text x="185" y="1055" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">i</text>
+<text x="195" y="1059" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">hemlighet?</text>
+</svg>

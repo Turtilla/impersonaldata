@@ -1,0 +1,923 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1131">
+<rect width="100%" height="100%" fill="white" />
+<rect x="8" y="5" width="53" height="26" fill="#7ab51d" />
+<text x="10" y="26" fill="#7ab51d" stroke="#7ab51d" stroke-width="1" font-size="17" font-family="DejaVu Sans">China</text>
+<text x="64" y="26" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">:</text>
+<rect x="73" y="5" width="99" height="26" fill="#7ab51d" />
+<text x="75" y="26" fill="#7ab51d" stroke="#7ab51d" stroke-width="1" font-size="17" font-family="DejaVu Sans">Tiananmen</text>
+<rect x="173" y="5" width="69" height="26" fill="#ba4a8a" />
+<text x="175" y="26" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">Political</text>
+<rect x="243" y="5" width="73" height="26" fill="#ba4a8a" />
+<text x="245" y="26" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">Prisoner</text>
+<rect x="317" y="5" width="18" height="26" fill="#ffff00" />
+<text x="319" y="26" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Li</text>
+<rect x="336" y="5" width="94" height="30" fill="#ffff00" />
+<text x="338" y="30" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Wangyang</text>
+<text x="433" y="26" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">Found</text>
+<text x="490" y="26" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">Dead</text>
+<rect x="538" y="5" width="18" height="26" fill="#ffff00" />
+<text x="540" y="26" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Li</text>
+<rect x="557" y="5" width="94" height="30" fill="#ffff00" />
+<text x="559" y="30" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Wangyang</text>
+<text x="654" y="28" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">,</text>
+<text x="664" y="26" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">a</text>
+<rect x="677" y="5" width="72" height="26" fill="#ba4a8a" />
+<text x="679" y="26" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">Chinese</text>
+<rect x="8" y="26" width="71" height="30" fill="#ba4a8a" />
+<text x="10" y="51" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">political</text>
+<rect x="80" y="26" width="74" height="30" fill="#ba4a8a" />
+<text x="82" y="51" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">prisoner</text>
+<text x="157" y="47" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">who</text>
+<text x="197" y="51" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">spent</text>
+<text x="250" y="47" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">most</text>
+<text x="298" y="47" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">of</text>
+<text x="320" y="47" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">his</text>
+<text x="350" y="47" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">life</text>
+<text x="381" y="47" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">in</text>
+<text x="402" y="49" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">detention,</text>
+<text x="494" y="47" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">was</text>
+<text x="532" y="47" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">found</text>
+<text x="586" y="47" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">dead</text>
+<text x="633" y="47" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">on</text>
+<text x="659" y="47" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">the</text>
+<text x="692" y="51" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">morning</text>
+<text x="768" y="47" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">of</text>
+<rect x="8" y="47" width="102" height="30" fill="#0090d4" />
+<text x="10" y="72" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">Wednesday</text>
+<rect x="111" y="47" width="15" height="26" fill="#0090d4" />
+<text x="113" y="68" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">6</text>
+<rect x="127" y="47" width="46" height="29" fill="#0090d4" />
+<text x="129" y="71" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">June,</text>
+<rect x="174" y="47" width="47" height="26" fill="#0090d4" />
+<text x="176" y="68" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">2012</text>
+<text x="224" y="70" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">,</text>
+<text x="234" y="68" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">after</text>
+<text x="279" y="72" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">being</text>
+<text x="332" y="68" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">interviewed</text>
+<text x="437" y="72" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">by</text>
+<text x="463" y="68" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">overseas</text>
+<text x="545" y="68" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">media</text>
+<text x="603" y="68" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">about</text>
+<text x="657" y="68" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">the</text>
+<rect x="688" y="47" width="41" height="29" fill="#ba4a8a" />
+<text x="690" y="71" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">June</text>
+<rect x="730" y="47" width="15" height="26" fill="#ba4a8a" />
+<text x="732" y="68" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">4</text>
+<rect x="8" y="68" width="105" height="28" fill="#ba4a8a" />
+<text x="10" y="91" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">(Tiananmen</text>
+<rect x="114" y="68" width="70" height="30" fill="#ba4a8a" />
+<text x="116" y="93" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">Square)</text>
+<rect x="185" y="68" width="84" height="26" fill="#ba4a8a" />
+<text x="187" y="89" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">Massacre</text>
+<rect x="270" y="68" width="21" height="26" fill="#ba4a8a" />
+<text x="272" y="89" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">of</text>
+<rect x="292" y="68" width="47" height="26" fill="#ba4a8a" />
+<text x="294" y="89" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">1989</text>
+<text x="342" y="89" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">and</text>
+<text x="379" y="89" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">the</text>
+<text x="412" y="89" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">life</text>
+<text x="443" y="89" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">of</text>
+<rect x="463" y="68" width="71" height="30" fill="#ba4a8a" />
+<text x="465" y="93" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">political</text>
+<rect x="535" y="68" width="83" height="30" fill="#ba4a8a" />
+<text x="537" y="93" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">prisoners</text>
+<text x="621" y="89" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">in</text>
+<rect x="640" y="68" width="53" height="26" fill="#7ab51d" />
+<text x="642" y="89" fill="#7ab51d" stroke="#7ab51d" stroke-width="1" font-size="17" font-family="DejaVu Sans">China</text>
+<text x="696" y="89" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">.</text>
+<rect x="704" y="68" width="18" height="26" fill="#ffff00" />
+<text x="706" y="89" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Li</text>
+<text x="725" y="89" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">was</text>
+<text x="10" y="110" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">released</text>
+<text x="88" y="110" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">in</text>
+<rect x="107" y="89" width="39" height="30" fill="#0090d4" />
+<text x="109" y="114" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">May</text>
+<rect x="147" y="89" width="20" height="28" fill="#0090d4" />
+<text x="149" y="112" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">5,</text>
+<rect x="168" y="89" width="47" height="26" fill="#0090d4" />
+<text x="170" y="110" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">2011</text>
+<text x="218" y="112" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">,</text>
+<text x="228" y="110" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">after</text>
+<rect x="271" y="89" width="26" height="26" fill="#0090d4" />
+<text x="273" y="110" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">22</text>
+<rect x="298" y="89" width="51" height="30" fill="#0090d4" />
+<text x="300" y="114" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">years</text>
+<text x="352" y="110" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">of</text>
+<text x="374" y="114" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">imprisonment,</text>
+<rect x="501" y="89" width="43" height="26" fill="#ba4a8a" />
+<text x="503" y="110" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">deaf</text>
+<text x="547" y="110" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">and</text>
+<rect x="582" y="89" width="46" height="26" fill="#ba4a8a" />
+<text x="584" y="110" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">blind</text>
+<text x="631" y="110" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">because</text>
+<text x="707" y="110" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">of</text>
+<text x="729" y="110" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">torture</text>
+<text x="10" y="131" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">he</text>
+<text x="36" y="131" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">had</text>
+<text x="73" y="131" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">received.</text>
+<text x="156" y="131" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">He</text>
+<text x="184" y="131" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">was</text>
+<text x="222" y="131" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">a</text>
+<text x="237" y="131" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">worker</text>
+<text x="300" y="131" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">activist</text>
+<text x="367" y="131" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">and</text>
+<text x="404" y="135" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">participated</text>
+<text x="512" y="131" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">in</text>
+<text x="533" y="131" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">the</text>
+<rect x="564" y="110" width="47" height="26" fill="#0090d4" />
+<text x="566" y="131" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">1989</text>
+<text x="614" y="131" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">student</text>
+<text x="684" y="131" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">democratic</text>
+<text x="10" y="152" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">movement</text>
+<text x="107" y="152" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">as</text>
+<text x="131" y="152" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">a</text>
+<text x="146" y="156" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">leading</text>
+<text x="214" y="156" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">figure</text>
+<text x="268" y="152" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">for</text>
+<rect x="294" y="131" width="88" height="30" fill="#eb690b" />
+<text x="296" y="156" fill="#eb690b" stroke="#eb690b" stroke-width="1" font-size="17" font-family="DejaVu Sans">Shaoyang</text>
+<rect x="383" y="131" width="35" height="30" fill="#eb690b" />
+<text x="385" y="156" fill="#eb690b" stroke="#eb690b" stroke-width="1" font-size="17" font-family="DejaVu Sans">city</text>
+<rect x="419" y="131" width="110" height="26" fill="#eb690b" />
+<text x="421" y="152" fill="#eb690b" stroke="#eb690b" stroke-width="1" font-size="17" font-family="DejaVu Sans">autonomous</text>
+<rect x="530" y="131" width="62" height="26" fill="#eb690b" />
+<text x="532" y="152" fill="#eb690b" stroke="#eb690b" stroke-width="1" font-size="17" font-family="DejaVu Sans">worker</text>
+<rect x="593" y="131" width="62" height="30" fill="#eb690b" />
+<text x="595" y="156" fill="#eb690b" stroke="#eb690b" stroke-width="1" font-size="17" font-family="DejaVu Sans">league</text>
+<text x="658" y="152" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">.</text>
+<text x="668" y="152" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">He</text>
+<text x="696" y="152" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">was</text>
+<text x="10" y="173" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">arrested</text>
+<text x="86" y="173" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">after</text>
+<text x="131" y="173" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">the</text>
+<rect x="162" y="152" width="99" height="26" fill="#7ab51d" />
+<text x="164" y="173" fill="#7ab51d" stroke="#7ab51d" stroke-width="1" font-size="17" font-family="DejaVu Sans">Tiananmen</text>
+<text x="264" y="173" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">crackdown</text>
+<text x="361" y="173" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">and</text>
+<text x="398" y="173" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">sent</text>
+<text x="440" y="173" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">to</text>
+<text x="462" y="177" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">jail</text>
+<text x="492" y="173" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">for</text>
+<rect x="518" y="152" width="26" height="26" fill="#0090d4" />
+<text x="520" y="173" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">11</text>
+<rect x="545" y="152" width="51" height="30" fill="#0090d4" />
+<text x="547" y="177" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">years</text>
+<text x="599" y="173" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">under</text>
+<text x="654" y="173" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">the</text>
+<text x="687" y="177" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">charge</text>
+<text x="750" y="173" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">of</text>
+<text x="10" y="194" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">state</text>
+<text x="58" y="194" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">subversion.</text>
+<text x="161" y="194" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">He</text>
+<text x="189" y="194" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">started</text>
+<text x="255" y="194" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">a</text>
+<text x="270" y="198" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">hunger</text>
+<text x="336" y="194" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">strike</text>
+<text x="388" y="194" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">in</text>
+<text x="409" y="198" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">prison</text>
+<text x="467" y="194" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">and</text>
+<text x="504" y="194" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">was</text>
+<text x="542" y="196" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">tortured;</text>
+<text x="622" y="194" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">the</text>
+<text x="655" y="198" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">prison</text>
+<text x="713" y="198" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">guards</text>
+<text x="10" y="219" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">pulled</text>
+<text x="67" y="215" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">out</text>
+<text x="100" y="215" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">his</text>
+<text x="130" y="215" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">teeth</text>
+<text x="180" y="215" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">and</text>
+<text x="217" y="215" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">forced</text>
+<text x="276" y="215" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">him</text>
+<text x="313" y="215" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">to</text>
+<text x="335" y="215" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">eat.</text>
+<text x="373" y="215" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">He</text>
+<text x="401" y="215" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">was</text>
+<text x="439" y="219" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">briefly</text>
+<text x="498" y="215" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">released</text>
+<text x="576" y="215" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">in</text>
+<rect x="595" y="194" width="47" height="26" fill="#0090d4" />
+<text x="597" y="215" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">2000</text>
+<text x="645" y="215" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">but</text>
+<text x="679" y="215" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">sent</text>
+<text x="721" y="215" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">to</text>
+<text x="10" y="240" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">prison</text>
+<text x="68" y="240" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">again</text>
+<text x="120" y="236" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">in</text>
+<rect x="139" y="215" width="39" height="30" fill="#0090d4" />
+<text x="141" y="240" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">May</text>
+<rect x="179" y="215" width="47" height="26" fill="#0090d4" />
+<text x="181" y="236" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">2001</text>
+<text x="229" y="236" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">for</text>
+<rect x="255" y="215" width="32" height="26" fill="#0090d4" />
+<text x="257" y="236" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">ten</text>
+<rect x="288" y="215" width="51" height="30" fill="#0090d4" />
+<text x="290" y="240" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">years</text>
+<text x="342" y="236" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">in</text>
+<text x="363" y="236" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">a</text>
+<text x="378" y="236" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">crackdown</text>
+<text x="475" y="240" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">against</text>
+<text x="543" y="236" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">the</text>
+<rect x="574" y="215" width="53" height="26" fill="#eb690b" />
+<text x="576" y="236" fill="#eb690b" stroke="#eb690b" stroke-width="1" font-size="17" font-family="DejaVu Sans">China</text>
+<rect x="628" y="215" width="101" height="30" fill="#eb690b" />
+<text x="630" y="240" fill="#eb690b" stroke="#eb690b" stroke-width="1" font-size="17" font-family="DejaVu Sans">Democracy</text>
+<rect x="730" y="215" width="48" height="30" fill="#eb690b" />
+<text x="732" y="240" fill="#eb690b" stroke="#eb690b" stroke-width="1" font-size="17" font-family="DejaVu Sans">Party</text>
+<text x="781" y="238" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">,</text>
+<text x="10" y="257" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">this</text>
+<text x="46" y="257" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">time</text>
+<text x="89" y="257" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">under</text>
+<text x="144" y="257" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">the</text>
+<text x="177" y="261" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">charge</text>
+<text x="240" y="257" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">of</text>
+<text x="262" y="257" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">incitement</text>
+<text x="358" y="257" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">to</text>
+<text x="380" y="257" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">subvert</text>
+<text x="450" y="257" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">state</text>
+<text x="498" y="261" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">power.</text>
+<rect x="557" y="236" width="18" height="26" fill="#ffff00" />
+<text x="559" y="257" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Li</text>
+<rect x="576" y="236" width="94" height="30" fill="#ffff00" />
+<text x="578" y="261" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Wangyang</text>
+<text x="673" y="257" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">and</text>
+<text x="710" y="257" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">his</text>
+<rect x="738" y="236" width="51" height="26" fill="#ffff00" />
+<text x="740" y="257" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">sister</text>
+<text x="10" y="278" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">in</text>
+<text x="31" y="278" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">the</text>
+<rect x="62" y="257" width="71" height="30" fill="#eb690b" />
+<text x="64" y="282" fill="#eb690b" stroke="#eb690b" stroke-width="1" font-size="17" font-family="DejaVu Sans">hospital</text>
+<text x="136" y="278" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">.</text>
+<text x="146" y="278" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">Screen</text>
+<text x="209" y="282" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">capture</text>
+<text x="279" y="278" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">of</text>
+<rect x="299" y="257" width="49" height="30" fill="#eb690b" />
+<text x="301" y="282" fill="#eb690b" stroke="#eb690b" stroke-width="1" font-size="17" font-family="DejaVu Sans">Hong</text>
+<rect x="349" y="257" width="46" height="30" fill="#eb690b" />
+<text x="351" y="282" fill="#eb690b" stroke="#eb690b" stroke-width="1" font-size="17" font-family="DejaVu Sans">Kong</text>
+<rect x="396" y="257" width="41" height="26" fill="#eb690b" />
+<text x="398" y="278" fill="#eb690b" stroke="#eb690b" stroke-width="1" font-size="17" font-family="DejaVu Sans">Now</text>
+<rect x="438" y="257" width="26" height="26" fill="#eb690b" />
+<text x="440" y="278" fill="#eb690b" stroke="#eb690b" stroke-width="1" font-size="17" font-family="DejaVu Sans">TV</text>
+<text x="467" y="278" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">news.</text>
+<text x="521" y="278" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">He</text>
+<text x="549" y="278" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">was</text>
+<text x="587" y="278" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">interviewed</text>
+<text x="692" y="282" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">by</text>
+<rect x="716" y="257" width="49" height="30" fill="#eb690b" />
+<text x="718" y="282" fill="#eb690b" stroke="#eb690b" stroke-width="1" font-size="17" font-family="DejaVu Sans">Hong</text>
+<rect x="8" y="278" width="46" height="30" fill="#eb690b" />
+<text x="10" y="303" fill="#eb690b" stroke="#eb690b" stroke-width="1" font-size="17" font-family="DejaVu Sans">Kong</text>
+<rect x="55" y="278" width="50" height="26" fill="#eb690b" />
+<text x="57" y="299" fill="#eb690b" stroke="#eb690b" stroke-width="1" font-size="17" font-family="DejaVu Sans">cable</text>
+<rect x="106" y="278" width="86" height="26" fill="#eb690b" />
+<text x="108" y="299" fill="#eb690b" stroke="#eb690b" stroke-width="1" font-size="17" font-family="DejaVu Sans">television</text>
+<text x="195" y="299" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">for</text>
+<text x="223" y="299" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">a</text>
+<text x="238" y="299" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">feature</text>
+<text x="304" y="303" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">story</text>
+<text x="352" y="299" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">on</text>
+<text x="378" y="299" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">the</text>
+<rect x="409" y="278" width="43" height="26" fill="#0090d4" />
+<text x="411" y="299" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">23rd</text>
+<text x="455" y="303" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">anniversary</text>
+<text x="561" y="299" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">of</text>
+<text x="583" y="299" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">the</text>
+<rect x="614" y="278" width="41" height="29" fill="#ba4a8a" />
+<text x="616" y="302" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">June</text>
+<rect x="656" y="278" width="15" height="26" fill="#ba4a8a" />
+<text x="658" y="299" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">4</text>
+<rect x="672" y="278" width="84" height="26" fill="#ba4a8a" />
+<text x="674" y="299" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">Massacre</text>
+<text x="759" y="299" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">.</text>
+<text x="769" y="299" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">In</text>
+<text x="10" y="320" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">his</text>
+<text x="40" y="322" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">interview,</text>
+<text x="129" y="320" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">he</text>
+<text x="155" y="320" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">said</text>
+<text x="195" y="320" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">he</text>
+<text x="221" y="320" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">would</text>
+<text x="277" y="320" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">never</text>
+<text x="331" y="324" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">regret</text>
+<text x="388" y="320" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">what</text>
+<text x="435" y="320" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">he</text>
+<text x="461" y="320" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">had</text>
+<text x="498" y="320" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">done</text>
+<text x="545" y="320" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">for</text>
+<text x="573" y="320" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">democratic</text>
+<text x="674" y="320" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">reform</text>
+<text x="736" y="320" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">in</text>
+<rect x="8" y="320" width="53" height="26" fill="#7ab51d" />
+<text x="10" y="341" fill="#7ab51d" stroke="#7ab51d" stroke-width="1" font-size="17" font-family="DejaVu Sans">China</text>
+<text x="64" y="341" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">and</text>
+<text x="101" y="341" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">he</text>
+<text x="127" y="341" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">was</text>
+<text x="165" y="345" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">encouraged</text>
+<text x="271" y="345" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">by</text>
+<text x="297" y="341" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">the</text>
+<text x="330" y="341" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">insistence</text>
+<text x="421" y="341" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">of</text>
+<rect x="441" y="320" width="49" height="30" fill="#7ab51d" />
+<text x="443" y="345" fill="#7ab51d" stroke="#7ab51d" stroke-width="1" font-size="17" font-family="DejaVu Sans">Hong</text>
+<rect x="491" y="320" width="46" height="30" fill="#7ab51d" />
+<text x="493" y="345" fill="#7ab51d" stroke="#7ab51d" stroke-width="1" font-size="17" font-family="DejaVu Sans">Kong</text>
+<text x="540" y="345" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">people</text>
+<text x="603" y="341" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">on</text>
+<text x="629" y="341" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">the</text>
+<text x="662" y="341" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">vindication</text>
+<text x="760" y="341" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">of</text>
+<rect x="8" y="341" width="41" height="29" fill="#ba4a8a" />
+<text x="10" y="365" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">June</text>
+<rect x="50" y="341" width="15" height="26" fill="#ba4a8a" />
+<text x="52" y="362" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">4</text>
+<rect x="66" y="341" width="84" height="26" fill="#ba4a8a" />
+<text x="68" y="362" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">Massacre</text>
+<text x="153" y="362" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">.</text>
+<text x="163" y="366" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">According</text>
+<text x="252" y="362" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">to</text>
+<text x="274" y="362" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">the</text>
+<rect x="305" y="341" width="72" height="26" fill="#ba4a8a" />
+<text x="307" y="362" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">Chinese</text>
+<text x="380" y="362" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">Human</text>
+<text x="446" y="366" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">Rights</text>
+<text x="505" y="366" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">organization</text>
+<rect x="614" y="341" width="139" height="30" fill="#eb690b" />
+<text x="616" y="366" fill="#eb690b" stroke="#eb690b" stroke-width="1" font-size="17" font-family="DejaVu Sans">WeiquanWang&#x27;s</text>
+<text x="10" y="387" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">report</text>
+<text x="67" y="385" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">[</text>
+<rect x="77" y="362" width="24" height="26" fill="#ba4a8a" />
+<text x="79" y="383" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">zh</text>
+<text x="104" y="385" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">],</text>
+<rect x="119" y="362" width="32" height="26" fill="#ffff00" />
+<text x="121" y="383" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Li&#x27;s</text>
+<rect x="152" y="362" width="51" height="26" fill="#ffff00" />
+<text x="154" y="383" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">sister</text>
+<text x="206" y="383" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">found</text>
+<text x="260" y="383" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">his</text>
+<text x="290" y="387" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">body</text>
+<text x="337" y="387" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">hanging</text>
+<text x="411" y="383" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">from</text>
+<text x="456" y="383" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">the</text>
+<text x="489" y="383" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">window</text>
+<text x="559" y="383" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">frame</text>
+<text x="614" y="383" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">of</text>
+<text x="636" y="383" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">a</text>
+<text x="651" y="387" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">hospital</text>
+<text x="723" y="383" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">ward</text>
+<text x="770" y="383" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">in</text>
+<text x="10" y="404" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">which</text>
+<text x="65" y="404" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">he</text>
+<text x="91" y="404" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">was</text>
+<text x="129" y="408" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">staying</text>
+<text x="196" y="404" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">at</text>
+<rect x="216" y="383" width="42" height="26" fill="#0090d4" />
+<text x="218" y="404" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">7am</text>
+<rect x="259" y="383" width="25" height="26" fill="#0090d4" />
+<text x="261" y="404" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">on</text>
+<rect x="285" y="383" width="41" height="29" fill="#0090d4" />
+<text x="287" y="407" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">June</text>
+<rect x="327" y="383" width="15" height="26" fill="#0090d4" />
+<text x="329" y="404" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">6</text>
+<text x="345" y="406" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">,</text>
+<text x="355" y="404" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">as</text>
+<text x="379" y="404" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">if</text>
+<text x="396" y="404" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">he</text>
+<text x="422" y="404" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">had</text>
+<text x="459" y="404" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">committed</text>
+<text x="556" y="404" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">suicide.</text>
+<text x="626" y="404" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">The</text>
+<text x="663" y="408" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">police</text>
+<text x="718" y="404" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">then</text>
+<text x="10" y="429" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">quickly</text>
+<text x="75" y="425" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">took</text>
+<text x="117" y="429" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">away</text>
+<rect x="165" y="404" width="32" height="26" fill="#ffff00" />
+<text x="167" y="425" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Li&#x27;s</text>
+<text x="200" y="429" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">body</text>
+<text x="247" y="429" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">ignoring</text>
+<text x="322" y="425" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">the</text>
+<text x="355" y="425" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">relatives&#x27;</text>
+<text x="438" y="429" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">request</text>
+<text x="508" y="425" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">for</text>
+<text x="536" y="429" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">taking</text>
+<text x="594" y="429" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">pictures</text>
+<text x="667" y="425" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">of</text>
+<text x="689" y="425" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">the</text>
+<text x="722" y="425" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">dead</text>
+<text x="10" y="450" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">body.</text>
+<rect x="58" y="425" width="32" height="26" fill="#ffff00" />
+<text x="60" y="446" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Li&#x27;s</text>
+<rect x="91" y="425" width="54" height="26" fill="#ffff00" />
+<text x="93" y="446" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">friend</text>
+<text x="148" y="446" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">refused</text>
+<text x="217" y="446" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">to</text>
+<text x="239" y="446" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">believe</text>
+<text x="306" y="446" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">that</text>
+<rect x="344" y="425" width="18" height="26" fill="#ffff00" />
+<text x="346" y="446" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Li</text>
+<text x="365" y="446" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">had</text>
+<text x="402" y="446" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">committed</text>
+<text x="499" y="446" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">suicide:</text>
+<text x="569" y="450" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">According</text>
+<text x="658" y="446" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">to</text>
+<rect x="678" y="425" width="37" height="26" fill="#ffff00" />
+<text x="680" y="446" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Zhu</text>
+<rect x="8" y="446" width="83" height="30" fill="#ffff00" />
+<text x="10" y="471" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Chengzhi</text>
+<rect x="92" y="446" width="38" height="28" fill="#ffff00" />
+<text x="94" y="469" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">[Li&#x27;s</text>
+<rect x="131" y="446" width="60" height="28" fill="#ffff00" />
+<text x="133" y="469" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">friend]</text>
+<text x="194" y="469" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">,</text>
+<text x="204" y="467" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">on</text>
+<rect x="228" y="446" width="41" height="29" fill="#0090d4" />
+<text x="230" y="470" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">June</text>
+<rect x="270" y="446" width="15" height="26" fill="#0090d4" />
+<text x="272" y="467" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">4</text>
+<text x="288" y="467" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">he</text>
+<text x="314" y="467" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">had</text>
+<text x="351" y="471" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">long</text>
+<text x="393" y="467" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">chat</text>
+<text x="436" y="467" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">with</text>
+<rect x="475" y="446" width="18" height="26" fill="#ffff00" />
+<text x="477" y="467" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Li</text>
+<rect x="494" y="446" width="92" height="30" fill="#ffff00" />
+<text x="496" y="471" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">WangYang</text>
+<text x="589" y="467" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">and</text>
+<rect x="624" y="446" width="18" height="26" fill="#ffff00" />
+<text x="626" y="467" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Li</text>
+<text x="645" y="467" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">was</text>
+<text x="683" y="471" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">optimistic.</text>
+<text x="10" y="492" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">Although</text>
+<text x="92" y="488" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">his</text>
+<text x="122" y="488" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">health</text>
+<text x="181" y="488" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">condition</text>
+<text x="265" y="488" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">was</text>
+<rect x="301" y="467" width="36" height="26" fill="#ba4a8a" />
+<text x="303" y="488" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">bad</text>
+<text x="340" y="490" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">,</text>
+<text x="350" y="492" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">many</text>
+<text x="403" y="492" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">people</text>
+<text x="466" y="488" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">had</text>
+<text x="503" y="492" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">expressed</text>
+<text x="595" y="488" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">their</text>
+<text x="640" y="488" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">concern</text>
+<text x="713" y="488" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">for</text>
+<rect x="739" y="467" width="18" height="26" fill="#ffff00" />
+<text x="741" y="488" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Li</text>
+<text x="10" y="509" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">and</text>
+<text x="47" y="509" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">his</text>
+<text x="77" y="509" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">health</text>
+<text x="136" y="509" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">was</text>
+<text x="174" y="513" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">slowly</text>
+<rect x="230" y="488" width="95" height="30" fill="#ba4a8a" />
+<text x="232" y="513" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">recovering</text>
+<text x="328" y="509" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">.</text>
+<text x="338" y="513" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">Yesterday</text>
+<text x="426" y="511" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">[</text>
+<rect x="436" y="488" width="41" height="29" fill="#0090d4" />
+<text x="438" y="512" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">June</text>
+<rect x="478" y="488" width="15" height="26" fill="#0090d4" />
+<text x="480" y="509" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">5</text>
+<text x="496" y="511" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">],</text>
+<rect x="511" y="488" width="18" height="26" fill="#ffff00" />
+<text x="513" y="509" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Li</text>
+<text x="532" y="509" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">asked</text>
+<text x="587" y="509" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">his</text>
+<text x="617" y="509" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">sister</text>
+<text x="669" y="509" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">to</text>
+<text x="691" y="513" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">buy</text>
+<text x="728" y="509" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">him</text>
+<text x="765" y="509" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">a</text>
+<text x="10" y="530" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">radio</text>
+<text x="58" y="530" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">so</text>
+<text x="82" y="530" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">that</text>
+<text x="122" y="530" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">he</text>
+<text x="148" y="530" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">could</text>
+<text x="199" y="530" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">start</text>
+<text x="244" y="534" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">practicing</text>
+<text x="334" y="534" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">listening</text>
+<text x="412" y="532" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">[</text>
+<rect x="422" y="509" width="40" height="26" fill="#ba4a8a" />
+<text x="424" y="530" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">with</text>
+<rect x="463" y="509" width="69" height="30" fill="#ba4a8a" />
+<text x="465" y="534" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">hearing</text>
+<rect x="533" y="509" width="39" height="26" fill="#ba4a8a" />
+<text x="535" y="530" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">aids</text>
+<text x="575" y="532" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">].</text>
+<text x="592" y="530" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">Two</text>
+<text x="629" y="534" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">photos</text>
+<text x="692" y="532" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">[WARNING:</text>
+<text x="10" y="555" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">graphic</text>
+<text x="79" y="553" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">content]</text>
+<text x="156" y="551" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">claimed</text>
+<text x="228" y="551" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">to</text>
+<text x="250" y="551" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">be</text>
+<text x="276" y="551" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">taken</text>
+<text x="329" y="555" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">by</text>
+<text x="355" y="555" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">eyewitness</text>
+<text x="455" y="551" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">of</text>
+<text x="477" y="551" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">the</text>
+<text x="510" y="555" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">hanging</text>
+<text x="584" y="551" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">scene</text>
+<text x="639" y="551" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">have</text>
+<text x="686" y="551" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">been</text>
+<text x="10" y="572" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">circulated</text>
+<text x="99" y="576" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">widely</text>
+<text x="159" y="572" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">via</text>
+<text x="189" y="572" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">Facebook</text>
+<text x="274" y="572" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">and</text>
+<text x="311" y="572" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">Twitter.</text>
+<text x="377" y="576" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">They</text>
+<text x="424" y="572" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">show</text>
+<text x="473" y="572" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">that</text>
+<text x="513" y="572" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">the</text>
+<text x="546" y="572" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">window</text>
+<text x="616" y="572" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">frame</text>
+<text x="671" y="572" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">from</text>
+<text x="716" y="572" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">which</text>
+<rect x="769" y="551" width="18" height="26" fill="#ffff00" />
+<text x="771" y="572" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Li</text>
+<text x="10" y="593" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">was</text>
+<text x="48" y="597" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">hung</text>
+<text x="96" y="593" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">from</text>
+<text x="141" y="593" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">was</text>
+<text x="179" y="593" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">too</text>
+<text x="211" y="593" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">low</text>
+<text x="245" y="593" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">and</text>
+<text x="282" y="593" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">that</text>
+<text x="322" y="593" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">his</text>
+<text x="352" y="593" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">feet</text>
+<text x="391" y="593" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">were</text>
+<text x="437" y="593" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">still</text>
+<text x="472" y="597" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">resting</text>
+<text x="536" y="593" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">on</text>
+<text x="562" y="593" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">the</text>
+<text x="595" y="597" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">ground.</text>
+<rect x="664" y="572" width="72" height="26" fill="#ba4a8a" />
+<text x="666" y="593" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">Chinese</text>
+<text x="10" y="614" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">netizens</text>
+<text x="87" y="614" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">were</text>
+<text x="133" y="618" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">outraged</text>
+<text x="215" y="618" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">by</text>
+<text x="241" y="614" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">the</text>
+<text x="274" y="616" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">news,</text>
+<text x="328" y="614" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">below</text>
+<text x="383" y="614" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">is</text>
+<text x="402" y="614" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">a</text>
+<text x="417" y="614" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">selection</text>
+<text x="498" y="614" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">of</text>
+<text x="520" y="614" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">tweets</text>
+<text x="582" y="618" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">reacting</text>
+<text x="657" y="614" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">to</text>
+<text x="679" y="614" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">the</text>
+<text x="712" y="614" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">incident</text>
+<text x="10" y="635" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">on</text>
+<text x="36" y="635" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">Twitter</text>
+<text x="98" y="637" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">[</text>
+<rect x="108" y="614" width="24" height="26" fill="#ba4a8a" />
+<text x="110" y="635" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">zh</text>
+<text x="135" y="637" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">]:</text>
+<rect x="150" y="614" width="107" height="30" fill="#ffff00" />
+<text x="152" y="639" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">@BaiqiaoCh</text>
+<text x="260" y="635" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">:</text>
+<text x="271" y="635" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">This</text>
+<text x="311" y="635" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">is</text>
+<text x="330" y="635" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">too</text>
+<text x="362" y="639" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">outrageous.</text>
+<text x="469" y="639" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">They</text>
+<text x="516" y="635" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">don&#x27;t</text>
+<text x="565" y="635" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">even</text>
+<text x="612" y="639" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">try</text>
+<text x="641" y="635" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">hard</text>
+<text x="685" y="635" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">to</text>
+<text x="707" y="635" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">fake</text>
+<rect x="746" y="614" width="18" height="26" fill="#ffff00" />
+<text x="748" y="635" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Li</text>
+<rect x="8" y="635" width="107" height="30" fill="#ffff00" />
+<text x="10" y="660" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Wangyang&#x27;s</text>
+<text x="118" y="656" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">suicide</text>
+<text x="183" y="656" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">and</text>
+<text x="220" y="660" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">disregard</text>
+<text x="305" y="660" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">people&#x27;s</text>
+<text x="381" y="660" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">anger.</text>
+<text x="439" y="656" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">I</text>
+<text x="449" y="656" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">would</text>
+<text x="505" y="660" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">spend</text>
+<text x="562" y="660" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">my</text>
+<text x="594" y="656" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">life</text>
+<text x="625" y="660" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">digging</text>
+<text x="693" y="656" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">out</text>
+<text x="726" y="656" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">the</text>
+<text x="10" y="677" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">murderer.</text>
+<rect x="96" y="656" width="112" height="30" fill="#ffff00" />
+<text x="98" y="681" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">@tufuwugan</text>
+<text x="211" y="677" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">:</text>
+<text x="222" y="681" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">Tough</text>
+<text x="277" y="681" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">guy</text>
+<rect x="312" y="656" width="18" height="26" fill="#ffff00" />
+<text x="314" y="677" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Li</text>
+<rect x="331" y="656" width="94" height="30" fill="#ffff00" />
+<text x="333" y="681" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Wangyang</text>
+<text x="428" y="677" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">had</text>
+<text x="465" y="677" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">survived</text>
+<text x="543" y="677" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">all</text>
+<text x="568" y="677" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">these</text>
+<rect x="618" y="656" width="26" height="26" fill="#0090d4" />
+<text x="620" y="677" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">21</text>
+<rect x="645" y="656" width="51" height="30" fill="#0090d4" />
+<text x="647" y="681" fill="#0090d4" stroke="#0090d4" stroke-width="1" font-size="17" font-family="DejaVu Sans">years</text>
+<text x="699" y="677" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">but</text>
+<text x="733" y="677" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">died</text>
+<text x="10" y="702" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">unnaturally</text>
+<text x="112" y="698" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">in</text>
+<text x="133" y="698" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">the</text>
+<text x="166" y="702" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">hospital</text>
+<text x="238" y="698" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">under</text>
+<text x="293" y="698" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">the</text>
+<text x="326" y="698" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">surveillance</text>
+<text x="433" y="698" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">of</text>
+<text x="455" y="698" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">ten</text>
+<text x="488" y="702" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">security</text>
+<text x="561" y="702" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">police.</text>
+<text x="622" y="698" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">In</text>
+<text x="643" y="700" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">addition,</text>
+<text x="723" y="698" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">he</text>
+<text x="749" y="698" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">was</text>
+<rect x="8" y="698" width="43" height="26" fill="#ba4a8a" />
+<text x="10" y="719" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">deaf</text>
+<text x="54" y="719" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">and</text>
+<rect x="89" y="698" width="46" height="26" fill="#ba4a8a" />
+<text x="91" y="719" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">blind</text>
+<text x="138" y="719" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">and</text>
+<rect x="173" y="698" width="50" height="26" fill="#ba4a8a" />
+<text x="175" y="719" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">could</text>
+<rect x="224" y="698" width="32" height="26" fill="#ba4a8a" />
+<text x="226" y="719" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">not</text>
+<rect x="257" y="698" width="51" height="26" fill="#ba4a8a" />
+<text x="259" y="719" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">move</text>
+<rect x="309" y="698" width="64" height="26" fill="#ba4a8a" />
+<text x="311" y="719" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">around</text>
+<rect x="374" y="698" width="52" height="30" fill="#ba4a8a" />
+<text x="376" y="723" fill="#ba4a8a" stroke="#ba4a8a" stroke-width="1" font-size="17" font-family="DejaVu Sans">freely</text>
+<text x="429" y="719" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">.</text>
+<text x="439" y="719" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">His</text>
+<text x="471" y="719" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">death</text>
+<text x="525" y="719" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">had</text>
+<text x="562" y="723" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">everything</text>
+<text x="659" y="719" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">to</text>
+<text x="681" y="719" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">do</text>
+<text x="707" y="719" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">with</text>
+<text x="10" y="740" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">those</text>
+<text x="62" y="740" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">who</text>
+<text x="102" y="740" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">restrict</text>
+<text x="168" y="740" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">his</text>
+<text x="198" y="740" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">freedom.</text>
+<rect x="278" y="719" width="94" height="30" fill="#ffff00" />
+<text x="280" y="744" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Wangyang</text>
+<text x="375" y="740" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">is</text>
+<text x="394" y="740" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">a</text>
+<text x="409" y="740" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">free</text>
+<text x="448" y="742" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">citizen;</text>
+<text x="514" y="740" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">those</text>
+<text x="566" y="740" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">who</text>
+<text x="606" y="740" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">had</text>
+<text x="643" y="740" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">restricted</text>
+<text x="730" y="740" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">his</text>
+<text x="10" y="761" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">freedom</text>
+<text x="86" y="761" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">are</text>
+<text x="118" y="761" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">murderers.</text>
+<text x="217" y="761" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">To</text>
+<text x="240" y="761" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">ban</text>
+<rect x="275" y="740" width="32" height="26" fill="#ffff00" />
+<text x="277" y="761" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Li&#x27;s</text>
+<text x="310" y="765" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">family</text>
+<text x="367" y="761" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">and</text>
+<text x="404" y="761" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">friends</text>
+<text x="468" y="761" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">from</text>
+<text x="513" y="765" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">examining</text>
+<text x="607" y="761" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">the</text>
+<text x="640" y="765" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">body</text>
+<text x="687" y="765" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">by</text>
+<text x="10" y="786" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">forcefully</text>
+<text x="94" y="786" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">taking</text>
+<text x="152" y="782" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">the</text>
+<text x="185" y="786" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">body</text>
+<text x="232" y="786" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">away</text>
+<text x="282" y="782" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">indicates</text>
+<text x="364" y="782" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">that</text>
+<text x="404" y="786" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">they</text>
+<text x="447" y="782" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">are</text>
+<text x="479" y="786" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">guilty.</text>
+<rect x="533" y="761" width="132" height="30" fill="#ffff00" />
+<text x="535" y="786" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">@crushglass_X</text>
+<text x="668" y="782" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">:</text>
+<text x="679" y="782" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">How</text>
+<text x="721" y="786" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">many</text>
+<text x="10" y="807" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">people</text>
+<text x="73" y="803" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">had</text>
+<text x="110" y="803" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">heard</text>
+<text x="164" y="803" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">of</text>
+<rect x="184" y="782" width="18" height="26" fill="#ffff00" />
+<text x="186" y="803" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Li</text>
+<rect x="203" y="782" width="94" height="30" fill="#ffff00" />
+<text x="205" y="807" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Wangyang</text>
+<text x="300" y="803" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">when</text>
+<text x="351" y="803" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">he</text>
+<text x="377" y="803" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">was</text>
+<text x="415" y="803" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">alive?</text>
+<text x="469" y="803" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">Now</text>
+<text x="511" y="803" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">he</text>
+<text x="537" y="803" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">is</text>
+<text x="556" y="803" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">dead</text>
+<text x="603" y="803" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">and</text>
+<text x="640" y="803" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">named</text>
+<text x="704" y="803" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">as</text>
+<text x="728" y="807" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">great</text>
+<text x="10" y="828" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">fighter</text>
+<text x="71" y="824" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">for</text>
+<text x="99" y="828" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">democracy.</text>
+<text x="201" y="824" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">This</text>
+<text x="241" y="824" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">shows</text>
+<text x="299" y="824" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">that</text>
+<text x="339" y="828" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">people</text>
+<text x="402" y="824" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">do</text>
+<text x="428" y="824" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">not</text>
+<text x="461" y="828" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">pay</text>
+<text x="497" y="824" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">attention</text>
+<text x="580" y="824" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">to</text>
+<text x="602" y="824" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">those</text>
+<text x="654" y="824" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">who</text>
+<text x="694" y="824" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">are</text>
+<text x="726" y="824" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">not</text>
+<text x="10" y="845" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">famous.</text>
+<text x="83" y="845" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">For</text>
+<text x="115" y="845" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">this</text>
+<text x="151" y="849" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">group</text>
+<text x="205" y="845" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">of</text>
+<text x="227" y="849" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">people,</text>
+<text x="295" y="845" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">the</text>
+<text x="328" y="849" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">price</text>
+<text x="375" y="845" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">that</text>
+<text x="415" y="849" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">they</text>
+<text x="458" y="845" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">have</text>
+<text x="505" y="849" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">paid</text>
+<text x="547" y="845" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">is</text>
+<text x="566" y="845" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">much</text>
+<text x="618" y="845" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">heavier</text>
+<text x="687" y="845" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">than</text>
+<text x="731" y="845" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">the</text>
+<text x="10" y="866" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">famous</text>
+<text x="78" y="866" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">and</text>
+<text x="115" y="866" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">influential</text>
+<text x="205" y="866" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">ones.</text>
+<rect x="254" y="845" width="106" height="30" fill="#ffff00" />
+<text x="256" y="870" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">@xuange12</text>
+<text x="363" y="866" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">:</text>
+<text x="374" y="866" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">Incidents</text>
+<text x="457" y="870" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">usually</text>
+<text x="522" y="870" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">happens</text>
+<text x="600" y="866" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">like</text>
+<text x="634" y="866" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">this:</text>
+<text x="676" y="866" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">Your</text>
+<text x="10" y="887" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">influence</text>
+<text x="93" y="887" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">has</text>
+<text x="128" y="887" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">affected</text>
+<text x="203" y="891" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">my</text>
+<text x="235" y="891" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">political</text>
+<text x="307" y="889" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">career,</text>
+<text x="372" y="887" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">then</text>
+<text x="416" y="891" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">you</text>
+<text x="452" y="887" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">become</text>
+<text x="525" y="887" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">the</text>
+<text x="558" y="887" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">villain.</text>
+<text x="619" y="887" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">In</text>
+<text x="640" y="891" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">my</text>
+<text x="672" y="891" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">territory,</text>
+<text x="752" y="887" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">I</text>
+<text x="10" y="908" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">have</text>
+<text x="57" y="908" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">absolute</text>
+<text x="135" y="912" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">power.</text>
+<text x="196" y="912" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">My</text>
+<text x="226" y="912" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">guess</text>
+<text x="281" y="908" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">is</text>
+<rect x="298" y="887" width="18" height="26" fill="#ffff00" />
+<text x="300" y="908" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Li</text>
+<rect x="317" y="887" width="94" height="30" fill="#ffff00" />
+<text x="319" y="912" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Wangyang</text>
+<text x="414" y="908" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">was</text>
+<text x="452" y="908" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">killed</text>
+<text x="502" y="912" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">by</text>
+<text x="528" y="908" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">these</text>
+<text x="580" y="908" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">kind</text>
+<text x="621" y="908" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">of</text>
+<text x="643" y="908" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">narrow-minded</text>
+<text x="10" y="933" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">people.</text>
+<text x="78" y="929" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">If</text>
+<text x="95" y="933" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">they</text>
+<text x="138" y="929" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">had</text>
+<text x="175" y="929" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">some</text>
+<text x="226" y="929" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">common</text>
+<text x="305" y="931" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">sense,</text>
+<text x="365" y="933" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">they</text>
+<text x="408" y="929" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">wouldn&#x27;t</text>
+<text x="486" y="929" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">do</text>
+<text x="512" y="929" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">such</text>
+<text x="557" y="929" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">a</text>
+<text x="572" y="933" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">thing.</text>
+<text x="626" y="929" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">No</text>
+<text x="654" y="929" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">one</text>
+<text x="691" y="929" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">can</text>
+<text x="727" y="929" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">benefit</text>
+<text x="10" y="950" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">from</text>
+<text x="55" y="950" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">it.</text>
+<text x="77" y="954" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">Only</text>
+<text x="121" y="950" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">emotion</text>
+<text x="196" y="954" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">replacing</text>
+<text x="280" y="954" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">rationality,</text>
+<text x="377" y="954" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">equipped</text>
+<text x="462" y="950" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">with</text>
+<text x="503" y="950" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">unrestrained</text>
+<text x="616" y="954" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">power,</text>
+<text x="679" y="950" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">would</text>
+<text x="735" y="950" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">lead</text>
+<text x="10" y="971" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">to</text>
+<text x="32" y="971" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">this.</text>
+<rect x="71" y="950" width="129" height="30" fill="#ffff00" />
+<text x="73" y="975" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">@wenyunchao</text>
+<text x="203" y="971" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">:</text>
+<text x="214" y="971" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">If</text>
+<text x="231" y="971" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">the</text>
+<text x="264" y="971" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">authorities</text>
+<text x="361" y="971" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">cannot</text>
+<text x="425" y="971" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">clear</text>
+<text x="472" y="971" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">the</text>
+<text x="505" y="971" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">doubt</text>
+<text x="560" y="971" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">that</text>
+<rect x="598" y="950" width="24" height="26" fill="#ffff00" />
+<text x="600" y="971" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Le</text>
+<rect x="623" y="950" width="94" height="30" fill="#ffff00" />
+<text x="625" y="975" fill="#ffff00" stroke="#ffff00" stroke-width="1" font-size="17" font-family="DejaVu Sans">Wangyang</text>
+<text x="720" y="971" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">was</text>
+<text x="10" y="996" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">“passively</text>
+<text x="103" y="994" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">suicided”,</text>
+<text x="193" y="992" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">can</text>
+<text x="229" y="992" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">we</text>
+<text x="258" y="992" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">raise</text>
+<text x="304" y="992" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">the</text>
+<text x="337" y="992" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">reasonable</text>
+<text x="436" y="992" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">doubt</text>
+<text x="491" y="992" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">that</text>
+<text x="531" y="992" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">the</text>
+<text x="564" y="992" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">authorities</text>
+<text x="661" y="992" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">have</text>
+<text x="708" y="992" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">started</text>
+<text x="10" y="1017" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">murdering</text>
+<text x="104" y="1017" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">political</text>
+<text x="176" y="1013" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">dissidents</text>
+<text x="267" y="1013" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">in</text>
+<text x="288" y="1013" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">secret?</text>
+<text x="354" y="1013" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">The</text>
+<text x="391" y="1013" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">number</text>
+<text x="462" y="1013" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">one</text>
+<text x="499" y="1013" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">cause</text>
+<text x="554" y="1013" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">for</text>
+<text x="582" y="1013" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">suicide</text>
+<text x="647" y="1013" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">is</text>
+<text x="666" y="1013" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">untreated</text>
+<text x="10" y="1038" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">depression.</text>
+<text x="113" y="1038" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">Depression</text>
+<text x="213" y="1034" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">is</text>
+<text x="232" y="1034" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">treatable</text>
+<text x="314" y="1034" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">and</text>
+<text x="351" y="1034" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">suicide</text>
+<text x="416" y="1034" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">is</text>
+<text x="435" y="1038" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">preventable.</text>
+<text x="548" y="1034" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">You</text>
+<text x="582" y="1034" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">can</text>
+<text x="618" y="1038" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">get</text>
+<text x="651" y="1038" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">help</text>
+<text x="693" y="1034" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">from</text>
+<text x="10" y="1055" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">confidential</text>
+<text x="115" y="1059" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">support</text>
+<text x="186" y="1055" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">lines</text>
+<text x="231" y="1055" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">for</text>
+<text x="259" y="1055" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">the</text>
+<text x="292" y="1055" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">suicidal</text>
+<text x="361" y="1055" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">and</text>
+<text x="398" y="1055" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">those</text>
+<text x="450" y="1055" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">in</text>
+<text x="471" y="1055" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">emotional</text>
+<text x="561" y="1055" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">crisis.</text>
+<text x="615" y="1055" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">Visit</text>
+<text x="657" y="1059" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">Befrienders.org</text>
+<text x="10" y="1076" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">to</text>
+<text x="32" y="1076" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">find</text>
+<text x="69" y="1076" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">a</text>
+<text x="84" y="1076" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">suicide</text>
+<text x="149" y="1080" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">prevention</text>
+<text x="246" y="1080" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">helpline</text>
+<text x="318" y="1076" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">in</text>
+<text x="339" y="1080" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">your</text>
+<text x="382" y="1080" fill="white" stroke="white" stroke-width="1" font-size="17" font-family="DejaVu Sans">country.</text>
+</svg>
