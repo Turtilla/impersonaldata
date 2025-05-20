@@ -5,6 +5,7 @@ import json
 import argparse
 import re
 import html
+import pandas as pd
 from PIL import Image, ImageDraw, ImageFont
 
 # Configuration paths
@@ -148,6 +149,7 @@ def generate_texty_visuals(text_data, output_base, category_colors):
     print(f"[✓] Saved: {png_path}, {mini_path}, {svg_path}")
 
 def load_json_objects(data_file_path):
+    return pd.read_json(data_file_path, lines=True)
     with open(data_file_path, "r") as f:
         raw = f.read().strip()
         try:
@@ -180,17 +182,17 @@ def main():
     base_filename = os.path.splitext(os.path.basename(args.data_file))[0]
 
     objects = load_json_objects(args.data_file)
-    if not objects:
+    if objects.empty:
         print("[!] No valid objects found in input.")
         exit(1)
 
-    for obj in objects:
-        obj_id = obj.get("id")
+    for obj in objects.iterrows():
+        obj_id = obj[1].get("id")
         if not obj_id:
             print("[!] Skipping object without 'id'")
             continue
         output_base = f"{base_filename}-{obj_id}"
-        generate_texty_visuals(obj, output_base, category_colors)
+        generate_texty_visuals(obj[1], output_base, category_colors)
 
 if __name__ == "__main__":
     main()
