@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <!-- Circle head -->
+  <circle cx="32" cy="32" r="28" stroke="black" stroke-width="4"/>
+
+  <!-- Masked vertical bars inside head -->
+  <rect x="26" y="16" width="3" height="32" fill="black" opacity="0.6"/>
+  <rect x="31" y="16" width="3" height="32" fill="black" opacity="0.3"/>
+  <rect x="36" y="16" width="3" height="32" fill="black" opacity="0.6"/>
+</svg>
