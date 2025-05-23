@@ -4,8 +4,7 @@
     <br/><br/><br/>
     <h2 class="text-2xl mb-4 font-header">Text Selection</h2>    
     <label for="text-select" class="block mb-2 text-lg font-semibold">Select a text:
-    <select v-model="selectedText" @change="bubbleUp" class="bg-gray-100 border border-gray-300 rounded p-2 dark:text-gray-900 dark:bg-gray-300" style="max-width: 100%;">
-        
+    <select v-model="selectedText" @change="bubbleUp" class="bg-gray-100 border border-gray-300 rounded p-2 dark:text-gray-900 dark:bg-gray-300" style="max-width: 100%;">   
         <option v-for="text in textData" :key="text.id" :value="text.text">
             {{ text.id }}
         </option>
