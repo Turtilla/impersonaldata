@@ -1,10 +1,10 @@
 <template>
 
-<div class="bg-white w-full">
+<div class="bg-white w-full dark:bg-gray-800 p-4 rounded-lg">
     <br/><br/><br/>
     <h2 class="text-2xl mb-4 font-header">Text Selection</h2>    
     <label for="text-select" class="block mb-2 text-lg font-semibold">Select a text:
-    <select v-model="selectedText" @change="bubbleUp" class="bg-gray-100 border border-gray-300 rounded p-2">
+    <select v-model="selectedText" @change="bubbleUp" class="bg-gray-100 border border-gray-300 rounded p-2 dark:text-gray-900 dark:bg-gray-300" style="max-width: 100%;">
         
         <option v-for="text in textData" :key="text.id" :value="text.text">
             {{ text.id }}
@@ -15,8 +15,8 @@
 </div>
 
 <div>
-    <label for="text-area" class="block mb-2 text-lg font-semibold">Selected Text:</label>
-    <textarea v-model="selectedText" rows="20" cols="100" readonly class="bg-gray-100 border border-gray-300 rounded p-2">
+    <label for="text-area" class="block mb-2 text-lg font-semibold dark:text-gray-300 dark:bg-gray-800">Selected Text:</label>
+    <textarea v-model="selectedText" rows="20" cols="100" readonly class="bg-gray-100 border border-gray-300 rounded p-2 dark:text-gray-300 dark:bg-gray-800" style="max-width: 100%;">
         {{ selectedText }}
     </textarea>
 </div>

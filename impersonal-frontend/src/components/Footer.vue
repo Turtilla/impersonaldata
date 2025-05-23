@@ -1,5 +1,5 @@
 <template>
-    <div class="footer">
+    <div class="footer bg-gray-100/75 dark:bg-gray-900/75">
         <div class="footer-content">
             <p>Powered by <a href="https://infravis.se/" target="_blank">Infravis</a></p>
         </div>
@@ -11,7 +11,6 @@
 
 <style scoped>
 .footer {
-    background-color: #f8f9fab9;
     padding: 10px;
     text-align: center;
     position: fixed;

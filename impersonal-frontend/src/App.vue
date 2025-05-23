@@ -17,24 +17,24 @@ window.addEventListener('text-selected', (event: CustomEvent) => {
 
 <template>
   <Header></Header>
-  <div v-if="currentPage==0" class="bg-white text-center w-full">
+  <div v-if="currentPage==0" class="bg-white text-center w-full dark:bg-gray-800 p-4 rounded-lg">
     
     <TextSelection v-if="currentPage==0"/>
     
     <button @click="currentPage=1">Go to Texty View</button>
   </div>
-  <div v-else-if="currentPage==1" class="bg-white text-center">
+  <div v-else-if="currentPage==1" class="bg-white text-center dark:bg-gray-800">
     <TextyView v-if="currentPage==1" :textid="currentId"/>
     <br/>
     <button @click="currentPage=0">Go to Text Selection</button>
     <button @click="currentPage=2">Go to Detail View</button>
   </div>
-  <div v-else-if="currentPage==2" class="bg-white text-center">
+  <div v-else-if="currentPage==2" class="bg-white text-center dark:bg-gray-800">
     <DetailView v-if="currentPage==2" :textid="currentId"/>
     <br/>
     <button @click="currentPage=0">Go to Text Selection</button>
   </div>
-  <div v-else class="bg-white text-center">
+  <div v-else class="bg-white text-center dark:bg-gray-800">
     <PageNotFound v-if="currentPage>2"/>
     <button @click="currentPage=0">Go to Text Selection</button>
   </div>

@@ -1,5 +1,5 @@
 <template>
-    <div class="header">
+    <div class="header bg-gray-100/75 dark:bg-gray-900/75">
         <div class="header-content">
             <h1 class="text-2xl font-header">Impersonal data</h1>
             <p class="text-sm">Your data, your way</p>            
@@ -12,7 +12,7 @@
 
 <style scoped>
 .header {
-    background-color: #f8f9fab9;
+    
     padding: 10px;
     text-align: center;
     position: fixed;

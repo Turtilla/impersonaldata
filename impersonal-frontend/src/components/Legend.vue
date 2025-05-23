@@ -1,10 +1,10 @@
 <template>
     <div
-      class="draggable-legend"
+      class="draggable-legend bg-white dark:bg-gray-800"
       :style="{ top: pos.y + 'px', left: pos.x + 'px' }"
       @mousedown="startDrag"
     >
-      <span class="text-2xl font-header">Legend</span>
+      <span class="text-2xl font-header dark:text-gray-900">Legend</span>
       <svg :width="width" :height="legendHeight">
         <g
           v-for="(item, index) in categories"

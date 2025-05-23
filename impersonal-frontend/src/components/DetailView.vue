@@ -92,7 +92,7 @@ onMounted(() => {
 
 function getColor(label: string) {
     // get the color for the label from the color map
-    return colorMap.value[label] || '#fff';
+    return colorMap.value[label] || 'transparent';
 }
 </script>
 
