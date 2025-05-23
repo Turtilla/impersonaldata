@@ -21,8 +21,13 @@
             <th v-if="showOffsets">Start</th>
             <th v-if="showOffsets">End</th>
             <th>Text</th>
+            <th v-for="(classifier_label, index) in classifier_labels" :key="index">
+              {{ classifier_label }} <!--.replace(/_/g, ' ').replace(/\b\w/g, (c: string) => c.toUpperCase())-->
+            </th>
+            <!--
             <th>BERT Classifier Label</th>
             <th>GV-PII-2.0 SweLLified Label</th>
+            -->
           </tr>
         </thead>
         <tbody>
@@ -30,8 +35,11 @@
             <td v-if="showOffsets">{{ item["start"] }}</td>
             <td v-if="showOffsets">{{ item["end"] }}</td>
             <td>{{ item["text"] }}</td>
+            <td class="border border-gray-300" :bgcolor="getColor(item[classifier_label])" v-for="(classifier_label, index) in classifier_labels" :key="index">{{ item[classifier_label] }}</td>
+            <!--
             <td class="border border-gray-300" :bgcolor="getColor(item['bert_classifier_label'])">{{ item["bert_classifier_label"] }}</td>
             <td class="border border-gray-300" :bgcolor="getColor(item['gv-pii-2.0_SweLLified_label'])">{{ item["gv-pii-2.0_SweLLified_label"] }}</td>
+            -->
           </tr>
         </tbody>
       </table>
@@ -50,6 +58,7 @@ const props = defineProps({
         required: true
     }
 });
+const classifier_labels = ref([] as string[]);
 
 onMounted(() => {
     fetch("/span_data.json")
@@ -88,6 +97,24 @@ onMounted(() => {
         .catch((error) => {
             console.error('Error fetching data:', error);
         });
+        fetch("/frontend_data.json")
+        .then((response) => {
+            if (!response.ok) {
+                console.error('Failed to fetch data:', response.statusText);
+                return;
+            }
+            return response.json();
+        }).then((data) => {
+          console.log("data", data);
+            const basefiles = data["base_files"];
+            console.log("base_files", basefiles);
+            for (const basefile of basefiles) {
+                const classifier_label = basefile.split(".jsonl")[0] + "_label";
+                // add the classifier label to the classifier_labels array
+                classifier_labels.value.push(classifier_label);
+            }
+            console.log("classifier_labels", classifier_labels.value);
+        })
 })
 
 function getColor(label: string) {
