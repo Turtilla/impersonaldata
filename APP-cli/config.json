@@ -3,10 +3,12 @@
     "authors": ["Author1", "Author2"],
     "github_repo": "https://github.com/yourusername/yourrepo",
     "categories": [
-        {"category": "personal_name", "color": "#ffff00"},
-        {"category": "institution", "color": "#eb690b"},
-        {"category": "other", "color": "#ba4a8a"},
-        {"category": "date", "color": "#0090d4"},
-        {"category": "geographic", "color": "#7ab51d"}
+        {"category": "personal_name", "color": "#77AADD"},
+        {"category": "institution", "color": "#EE8866"},
+        {"category": "geographic", "color": "#EEDD88"},
+        {"category": "transportation", "color": "#FFAABB"},
+        {"category": "other", "color": "#99DDFF"},
+        {"category": "date", "color": "#44BB99"},
+        {"category": "age", "color": "#BBCC33"}
     ]
 }
